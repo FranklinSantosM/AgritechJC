@@ -1,0 +1,25 @@
+---
+title: "Welcome to Agri-Tech JC"
+description: |
+  Bienvenido a nuestro nuevo blog, Agri-Tech JC. Somos un club de investigadores de las ciencias agropecurias.
+author:
+  - name: Franklin Santos 
+    url: https://example.com/norajones
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+date: 10-20-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+

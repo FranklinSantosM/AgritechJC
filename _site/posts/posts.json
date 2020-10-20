@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Agri-Tech JC",
+    "description": "Bienvenido a nuestro nuevo blog, Agri-Tech JC. Somos un club de investigadores de las ciencias agropecurias.",
+    "author": [
+      {
+        "name": "Franklin Santos",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-10-20",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2020-10-20T16:19:35-04:00",
+    "input_file": {}
+  }
+]

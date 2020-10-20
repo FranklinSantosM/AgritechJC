@@ -1,0 +1,12 @@
+name: "AgritechJC"
+title: "Agri-Tech Journal Club"
+description: |
+  Agri-Tech JC
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

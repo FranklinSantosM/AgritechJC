@@ -1,0 +1,9 @@
+---
+title: "About this blog"
+description: |
+  Somos un club de investigadores de las ciencias agropecuarias. Agri-Tech Journal Club es un centro de discusión y revisión de trabajos de investigación publicadas en revistas científicas de alto impacto. 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
