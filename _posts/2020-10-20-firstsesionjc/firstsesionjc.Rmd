@@ -1,0 +1,21 @@
+---
+title: "Primer Journal Club"
+description: |
+  Título del artículo: "Applications and Trends of Machine Learning in Genomics and Phenomics for Next-Generation Breeding".
+ 
+author:
+  - name: Franklin Santos
+    url: https://example.com/norajones
+date: 10-16-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+En este artículo se pudo discutir la importancia y los avances de las tecnologías de `genotipado` y `fenotipado` de cultivos, combinadas con el progreso de las ciencias computacionales, que están liderando una revolución en el `fitomejoramiento`, impulsando la identificación de la base genética de los rasgos con una precisión nunca antes alcanzada. Asimismo, la importancia del aprendizaje automático (ML) que juega un papel fundamental en la minería y el análisis de datos, proporcionando información relevante para la toma de decisiones para lograr los objetivos de mejoramiento.
+Puede acceder a la [presentación <https://docs.google.com/presentation/d/1VgNYOiAqcB0VwoPIpXNhIk3LGCBjpd5_9Lp2ssAr3-k/edit?usp=sharing>].
