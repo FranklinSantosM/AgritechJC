@@ -6,14 +6,14 @@
       "description": "Somos un club de investigadores de las ciencias agropecuarias. Agri-Tech Journal Club es un centro de discusión y revisión de trabajos de investigación publicadas en revistas científicas de alto impacto. ",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2020-10-20T20:15:34-04:00"
+      "last_modified": "2020-10-23T15:20:02-04:00"
     },
     {
       "path": "index.html",
       "title": "Agri-Tech JC",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2020-10-20T20:15:34-04:00"
+      "last_modified": "2020-10-23T15:20:02-04:00"
     }
   ],
   "collections": ["posts/posts.json"]

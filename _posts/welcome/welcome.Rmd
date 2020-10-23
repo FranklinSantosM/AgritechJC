@@ -1,11 +1,11 @@
 ---
-title: "Welcome to Agri-Tech JC"
+title: "Bienvenido a Agri-Tech Journal Club"
 description: |
-  Bienvenido a nuestro nuevo blog, Agri-Tech JC. Somos un club de investigadores de las ciencias agropecurias.
+  Bienvenido a nuestro nuevo blog, Agri-Tech JC. Somos un club de investigadores de las ciencias agropecuarias.
 author:
-  - name: Franklin Santos 
+  - name: Franklin Santos
     url: https://example.com/norajones
-    affiliation: Spacely Sprockets
+    affiliation: INIAF
     affiliation_url: https://example.com/spacelysprokets
 date: 10-20-2020
 output:
@@ -21,10 +21,44 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Espero sea de utilidad e interes nuestras publicaciones revisados en Agri-Tech Journal Club.
+## Antecedentes
+Los *clubes de revistas científicas o Journal Club* presentan oportunidades para que los investigadores se reúnan y discutan publicaciones recientes en revistas de alto impacto. Estas reuniones ayudan a los investigadores a *mantenerse al día con los hallazgos actuales*, ejercitar sus habilidades de *pensamiento crítico* y mejorar habilidades de presentación y debate.
 
-```{r}
-plot(1:10)
+Somos un grupo de investigadores del **INIAF** y la **Universidad Pública de El Alto**. Este club nació para fortalecer conocimientos de los egresados de la carrera de **Ingeniería Agronómica**. Agri-Tech Journal Club tiene propósitos en difundir lo que hacemos en este club. Mostrar que artículos se revisan. Espero sea de utilidad e interes nuestras publicaciones revisados en **Agri-Tech Journal Club**.
+
+## Objetivo del JC
+- Aprender a exponer en 10 minutos
+- Comprender el diseño de las investigaciones.
+- Mejorar el conocimiento de estadística 
+- Aprender a leer críticamente los artículos 
+- Compartir información de impacto con el club
+- Mantenerse actualizado y generar nuevas ideas de investigación
+
+## Formato de presentación 
+* **Antecedentes (Background)**: estado del arte, el del artículo.
+* **Objetivo**: última parte de la introducción del artículo.
+* **Materiales y métodos**: criterios de inclusión, exclusión, análisis estadístico, etc.
+* **Resultados**: Tabla 1, Figura, etc.
+* **Conclusión**: lo mas sobresaliente de la investigación
+* Opcional: Comentario concreto sobre el aporte del artículo
+
+## Equipo de investigadores
+Equipo de investigación en la Estación Experimental de Kallutaca en la campaña agrícola 2019-2020.
+
+| Nombres                   | Descripción                   |
+|---------------------------|-------------------------------|
+| Félix Marza, Ph.D.        | Investigador Principal        |
+| Franklin Santos, B.Sc.    | Investigador Técnico          |
+| Noemy Dorcas              | Tesista "Trigo"               |
+| Alex Mendoza              | Tesista "Tubérculos menores"  |
+| Cesar Rodrigo             | Tesista "Avena forrajera"     |
+| Javier Mamani             | Tesista "Papa"                |
+| Verónica Lecona           | Tesista "Quinua"              |
+| Gabriela Aruquipa         | Tesista "Cebolla"             |
+
+
+
+```{r fig.cap="Figure from https://doi.org/10.1371/journal.pone.0236351"}
+knitr::include_graphics("/Users/franklin/Documents/R_practice/AgritechJC/_posts/welcome/IMG.jpg")
 ```
-
 

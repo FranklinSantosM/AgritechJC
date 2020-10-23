@@ -1,8 +1,25 @@
 [
   {
+    "path": "posts/2020-10-23-hibrid-wheat/",
+    "title": "JC: Criterios de selección para híbridos de trigo harinero",
+    "description": "Título del artículo: \"Selection criteria for high-yielding and early-flowering bread wheat hybrids under heat stress\"",
+    "author": [
+      {
+        "name": "Expositor Noemy Dorcas",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-10-23",
+    "categories": [],
+    "contents": "\nEl trigo (Triticum aestivum L.), uno de los cultivos alimentarios más importantes del mundo, es una de las fuentes de proteínas más esenciales para los seres humanos. Representa el 17% de la superficie mundial de cultivos, alimenta aproximadamente al 40% de la población mundial y proporciona el 20% de las calorías totales de la dieta (Gupta P 2008).\nEl rendimiento de los híbridos durante el mejoramiento del trigo se puede mejorar analizando la distancia genética (GD) entre los genotipos de trigo y determinando su correlación con la heterosis.\n\n\n\nFigure 1: Figure from https://doi.org/10.1371/journal.pone.0236351\n\n\n\nMatriz de correlación entre los 12 rasgos medidos de genotipos de trigo para datos combinados (n = 34).\n\n\n\nFigure 2: Figure from https://doi.org/10.1371/journal.pone.0236351\n\n\n\nAnálisis de coordenadas principales (PCoA) entre los 16 genotipos de trigo realizado utilizando datos de SSR basados en el índice de disimilitud genética de Jaccard.\nDOI: https://doi.org/10.1371/journal.pone.0236351.\nCita del artículo: (Al-Ashkar I 2020).\n\n\n\nAl-Ashkar I, Refay Y, Alotaibi M. 2020. “Selection Criteria for High-Yielding and Early-Flowering Bread Wheat Hybrids Under Heat Stress.” PLoS ONE. https://doi.org/10.1371/journal.pone.0236351.\n\n\nGupta P, Mohan A, Mir R. 2008. “Wheat Genomics: Present Status and Future Prospects.” International Journal of Plant Genomics.\n\n\n\n\n",
+    "preview": "posts/2020-10-23-hibrid-wheat/j003.PNG",
+    "last_modified": "2020-10-23T13:41:49-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
-    "title": "Welcome to Agri-Tech JC",
-    "description": "Bienvenido a nuestro nuevo blog, Agri-Tech JC. Somos un club de investigadores de las ciencias agropecurias.",
+    "title": "Bienvenido a Agri-Tech Journal Club",
+    "description": "Bienvenido a nuestro nuevo blog, Agri-Tech JC. Somos un club de investigadores de las ciencias agropecuarias.",
     "author": [
       {
         "name": "Franklin Santos",
@@ -11,26 +28,26 @@
     ],
     "date": "2020-10-20",
     "categories": [],
-    "contents": "\nEspero sea de utilidad e interes nuestras publicaciones revisados en Agri-Tech Journal Club.\n\n\n\n\n\n\n",
-    "preview": "posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png",
-    "last_modified": "2020-10-20T19:02:15-04:00",
+    "contents": "\nAntecedentes\nLos clubes de revistas científicas o Journal Club presentan oportunidades para que los investigadores se reúnan y discutan publicaciones recientes en revistas de alto impacto. Estas reuniones ayudan a los investigadores a mantenerse al día con los hallazgos actuales, ejercitar sus habilidades de pensamiento crítico y mejorar habilidades de presentación y debate.\nSomos un grupo de investigadores del INIAF y la Universidad Pública de El Alto. Este club nació para fortalecer conocimientos de los egresados de la carrera de Ingeniería Agronómica. Agri-Tech Journal Club tiene propósitos en difundir lo que hacemos en este club. Mostrar que artículos se revisan. Espero sea de utilidad e interes nuestras publicaciones revisados en Agri-Tech Journal Club.\nObjetivo del JC\nAprender a exponer en 10 minutos\nComprender el diseño de las investigaciones.\nMejorar el conocimiento de estadística\nAprender a leer críticamente los artículos\nCompartir información de impacto con el club\nMantenerse actualizado y generar nuevas ideas de investigación\nFormato de presentación\nAntecedentes (Background): estado del arte, el del artículo.\nObjetivo: última parte de la introducción del artículo.\nMateriales y métodos: criterios de inclusión, exclusión, análisis estadístico, etc.\nResultados: Tabla 1, Figura, etc.\nConclusión: lo mas sobresaliente de la investigación\nOpcional: Comentario concreto sobre el aporte del artículo\nEquipo de investigadores\nEquipo de investigación en la Estación Experimental de Kallutaca en la campaña agrícola 2019-2020.\nNombres\nDescripción\nFélix Marza, Ph.D.\nInvestigador Principal\nFranklin Santos, B.Sc.\nInvestigador Técnico\nNoemy Dorcas\nTesista “Trigo”\nAlex Mendoza\nTesista “Tubérculos menores”\nCesar Rodrigo\nTesista “Avena forrajera”\nJavier Mamani\nTesista “Papa”\nVerónica Lecona\nTesista “Quinua”\nGabriela Aruquipa\nTesista “Cebolla”\n\n\n\nFigure 1: Figure from https://doi.org/10.1371/journal.pone.0236351\n\n\n\n\n\n\n",
+    "preview": "posts/welcome/IMG.jpg",
+    "last_modified": "2020-10-23T15:19:56-04:00",
     "input_file": {}
   },
   {
     "path": "posts/2020-10-20-firstsesionjc/",
-    "title": "Primer Journal Club",
+    "title": "JC: Herramientas modernas para el fitomejoramiento",
     "description": "Título del artículo: \"Applications and Trends of Machine Learning in Genomics and Phenomics for Next-Generation Breeding\".",
     "author": [
       {
-        "name": "Franklin Santos",
-        "url": "https://example.com/norajones"
+        "name": "Expositor Franklin Santos",
+        "url": "https://franklinsantos.netlify.app"
       }
     ],
     "date": "2020-10-16",
     "categories": [],
-    "contents": "\nEn este artículo se pudo discutir la importancia y los avances de las tecnologías de genotipado y fenotipado de cultivos, combinadas con el progreso de las ciencias computacionales, que están liderando una revolución en el fitomejoramiento, impulsando la identificación de la base genética de los rasgos con una precisión nunca antes alcanzada. Asimismo, la importancia del aprendizaje automático (ML) que juega un papel fundamental en la minería y el análisis de datos, proporcionando información relevante para la toma de decisiones para lograr los objetivos de mejoramiento. Puede acceder a la [presentación https://docs.google.com/presentation/d/1VgNYOiAqcB0VwoPIpXNhIk3LGCBjpd5_9Lp2ssAr3-k/edit?usp=sharing].\n\n\n\n",
-    "preview": {},
-    "last_modified": "2020-10-20T20:15:10-04:00",
+    "contents": "\nEn este artículo se pudo discutir la importancia y los avances de las tecnologías de genotipado y fenotipado de cultivos, combinadas con el progreso de las ciencias computacionales, que están liderando una revolución en el fitomejoramiento, impulsando la identificación de la base genética de los rasgos con una precisión nunca antes alcanzada. Asimismo, la importancia del aprendizaje automático (ML) que juega un papel fundamental en la minería y el análisis de datos, proporcionando información relevante para la toma de decisiones para lograr los objetivos de mejoramiento. Puede acceder a la [presentación https://docs.google.com/presentation/d/1VgNYOiAqcB0VwoPIpXNhIk3LGCBjpd5_9Lp2ssAr3-k/edit?usp=sharing].\n\n\n\nFigure 1: Figure from https://doi.org/10.3390/plants9010034\n\n\n\n\n\n\n",
+    "preview": "posts/2020-10-20-firstsesionjc/plants.png",
+    "last_modified": "2020-10-23T14:45:29-04:00",
     "input_file": {}
   }
 ]

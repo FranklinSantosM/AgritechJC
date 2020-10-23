@@ -1,0 +1,38 @@
+---
+title: "JC: Criterios de selección para híbridos de trigo harinero"
+description: |
+  Título del artículo: "Selection criteria for high-yielding and early-flowering bread wheat hybrids under heat stress"
+author:
+  - name: Expositor Noemy Dorcas 
+    url: https://example.com/norajones
+date: 10-23-2020
+output:
+  distill::distill_article:
+    self_contained: false
+bibliography: refs.bib
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+El trigo (*Triticum aestivum* L.), uno de los cultivos alimentarios más importantes del mundo, es una de las fuentes de proteínas más esenciales para los seres humanos. Representa el 17% de la superficie mundial de cultivos, alimenta aproximadamente al 40% de la población mundial y proporciona el 20% de las calorías totales de la dieta [@1].
+
+El rendimiento de los híbridos durante el mejoramiento del trigo se puede mejorar analizando la distancia genética (GD) entre los genotipos de trigo y determinando su correlación con la heterosis.
+
+```{r fig.cap="Figure from https://doi.org/10.1371/journal.pone.0236351"}
+knitr::include_graphics("/Users/franklin/Documents/R_practice/AgritechJC/_posts/2020-10-23-hibrid-wheat/j003.PNG")
+```
+Matriz de correlación entre los 12 rasgos medidos de genotipos de trigo para datos combinados (n = 34).
+
+```{r fig.cap="Figure from https://doi.org/10.1371/journal.pone.0236351"}
+knitr::include_graphics("/Users/franklin/Documents/R_practice/AgritechJC/_posts/2020-10-23-hibrid-wheat/journal.PNG")
+```
+Análisis de coordenadas principales (PCoA) entre los 16 genotipos de trigo realizado utilizando datos de SSR basados en el índice de disimilitud genética de Jaccard.
+
+DOI: <https://doi.org/10.1371/journal.pone.0236351>.
+
+Cita del artículo: [@refmanager].
+
+
