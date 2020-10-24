@@ -17,9 +17,33 @@ bibliography: refs.bib
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Introducción
 El trigo (*Triticum aestivum* L.), uno de los cultivos alimentarios más importantes del mundo, es una de las fuentes de proteínas más esenciales para los seres humanos. Representa el 17% de la superficie mundial de cultivos, alimenta aproximadamente al 40% de la población mundial y proporciona el 20% de las calorías totales de la dieta [@1].
 
 El rendimiento de los híbridos durante el mejoramiento del trigo se puede mejorar analizando la distancia genética (GD) entre los genotipos de trigo y determinando su correlación con la heterosis.
+
+La disminución de la productividad del trigo ha causado devastadores impactos económicos y sociológicos
+
+## Objetivo
+Estimar la variabilidad genética de 16 genotipos según sus relaciones y seleccionar híbridos genéticamente más diversos mediante el uso de SSR.
+
+Caracterizar la estructura poblacional del germoplasma de trigo de élite seleccionado y acceder a híbridos superiores de mejores padres para cubrir sus costos de producción. 
+
+Obtener híbridos de maduración temprana y alto rendimiento y con una mayor duración de llenado de grano.
+
+Estimar correlaciones de la distancia del marcador SSR con heterosis y SCA, e identificar los rasgos que más influyen en el rendimiento de grano.
+
+## Materiales y métodos
+El material genético consistió de 16 genotipos de trigo harinero. La distancia genética de los genotipos se determinó mediante marcadores moleculares SSR.
+
+**Datos técnicos**
+
+- Diseño completamente al Azar
+- Temperatura promedio del ambiente 30.4 °C
+- Fecha de siembra: 15-12-2017; 20-12-2018
+- Seis surcos por unidad experimental, tres metros de longitud de surco y 0.17 m entre surcos.
+
+## Resultados
 
 ```{r fig.cap="Figure from https://doi.org/10.1371/journal.pone.0236351"}
 knitr::include_graphics("/Users/franklin/Documents/R_practice/AgritechJC/_posts/2020-10-23-hibrid-wheat/j003.PNG")
@@ -31,8 +55,13 @@ knitr::include_graphics("/Users/franklin/Documents/R_practice/AgritechJC/_posts/
 ```
 Análisis de coordenadas principales (PCoA) entre los 16 genotipos de trigo realizado utilizando datos de SSR basados en el índice de disimilitud genética de Jaccard.
 
-DOI: <https://doi.org/10.1371/journal.pone.0236351>.
+## Conclusiones
+
+Los marcadores SSR fue una herramienta eficaz para evaluar la diferencia genética del trigo, que varió de 0,235 a 0,911 entre los 16 genotipos examinados en este estudio. Los ocho genotipos parentales seleccionados mostraron gran diversidad genética. Por tanto, las dos crusas (P2 × P5) y (P2 × P4) mostraron mayor productividad.
+
+## Comentarios
+La hibridación en trigo es una alternativa para incrementar la productividad; sin embargo, la selección de parentales es una de las actividades que necesita precisión.
+
+El grupo de investigadores planteó generar ensayos de híbridos de trigo harinero con material genetico local de alta productividad. 
 
 Cita del artículo: [@refmanager].
-
-
