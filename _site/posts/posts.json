@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-10-27-potato/",
+    "title": "JC: Fenología y rendimiento de papa",
+    "description": "Próximo atículo a discutir: Fenología y rendimiento de cuatro variedades de papa en el Altiplano peruano. Fecha: viernes 30-10-2020, horas 16:00",
+    "author": [
+      {
+        "name": "Expositor Alex Mendoza",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-10-27",
+    "categories": [],
+    "contents": "\nResumen\nEl objetivo de este trabajo fue comparar cuatro variedades de papa (Subsp. andigenum Hawkes, S. curtilobum Juz et Buk, S. juzepczukii Buk, S. stenotomum Just et Buk) en términos de fenología y rendimiento en condiciones agroecológicas de la región altiplánica del Perú. Para ello, se evaluaron parámetros fenológicos (descripción del tubérculo, planta, hoja, flor, bayas, intensidad de floración y período vegetativo) y productivos (rendimiento y número de tubérculos). Siendo la muestra 40 plantas seleccionadas al azar, las cuales fueron sembradas en suelo franco arenoso, bajo un manejo agronómico tradicional y riego por gravedad. Se determinó que la Subsp. andigenum Hawkes tiene la mayor producción (número y peso) en relación con las variedades estudiadas. El período vegetativo tuvo una duración entre los 169 a 183 días. Se concluye que las variedades estudiadas, son especies de ciclo fenológico semitardío.\n\n\n\nFigure 1: Figure from https://doi.org/10.3390/plants9010034\n\n\n\n\n\n\n",
+    "preview": "posts/2020-10-27-potato/papa.jpg",
+    "last_modified": "2020-10-27T17:27:15-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2020-10-23-hibrid-wheat/",
     "title": "JC: Criterios de selección para híbridos de trigo harinero",
     "description": "Título del artículo: \"Selection criteria for high-yielding and early-flowering bread wheat hybrids under heat stress\"",
@@ -28,9 +45,9 @@
     ],
     "date": "2020-10-16",
     "categories": [],
-    "contents": "\nEn este artículo se pudo discutir la importancia y los avances de las tecnologías de genotipado y fenotipado de cultivos, combinadas con el progreso de las ciencias computacionales, que están liderando una revolución en el fitomejoramiento, impulsando la identificación de la base genética de los rasgos con una precisión nunca antes alcanzada. Asimismo, la importancia del aprendizaje automático (ML) que juega un papel fundamental en la minería y el análisis de datos, proporcionando información relevante para la toma de decisiones para lograr los objetivos de mejoramiento. Puede acceder a la [presentación https://docs.google.com/presentation/d/1VgNYOiAqcB0VwoPIpXNhIk3LGCBjpd5_9Lp2ssAr3-k/edit?usp=sharing].\n\n\n\nFigure 1: Figure from https://doi.org/10.3390/plants9010034\n\n\n\n\n\n\n",
+    "contents": "\nEn este artículo se pudo discutir la importancia y los avances de las tecnologías de genotipado y fenotipado de cultivos, combinadas con el progreso de las ciencias computacionales, que están liderando una revolución en el fitomejoramiento, impulsando la identificación de la base genética de los rasgos con una precisión nunca antes alcanzada. Asimismo, la importancia del aprendizaje automático (ML) que juega un papel fundamental en la minería y el análisis de datos, proporcionando información relevante para la toma de decisiones para lograr los objetivos de mejoramiento. Puede acceder a la presentación.\n\n\n\nFigure 1: Figure from https://doi.org/10.3390/plants9010034\n\n\n\n\n\n\n",
     "preview": "posts/2020-10-20-firstsesionjc/plants.png",
-    "last_modified": "2020-10-23T14:45:29-04:00",
+    "last_modified": "2020-10-25T14:25:25-04:00",
     "input_file": {}
   },
   {
