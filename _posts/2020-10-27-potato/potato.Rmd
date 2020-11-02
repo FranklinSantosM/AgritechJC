@@ -9,6 +9,7 @@ date: 10-30-2020
 output:
   distill::distill_article:
     self_contained: false
+bibliography: refs.bib
 ---
 
 
@@ -18,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Resumen
 El objetivo de este trabajo fue comparar cuatro variedades de papa (*Subsp. andigenum* Hawkes, *S. curtilobum* Juz et Buk, *S. juzepczukii* Buk, *S. stenotomum* Just et Buk) en términos de fenología y rendimiento en condiciones agroecológicas de la región altiplánica del Perú. Para ello, se evaluaron parámetros fenológicos (descripción del tubérculo, planta, hoja, flor, bayas, intensidad de floración y período vegetativo) y productivos (rendimiento y número de tubérculos). Siendo la muestra 40 plantas seleccionadas al azar, las cuales fueron sembradas en suelo franco arenoso, bajo un manejo agronómico tradicional y riego por gravedad. Se determinó que la Subsp. andigenum Hawkes tiene la mayor producción (número y peso) en relación con las variedades estudiadas. El período vegetativo tuvo una duración entre los 169 a 183 días. Se concluye que las variedades estudiadas, son especies de ciclo fenológico semitardío.
 
-```{r fig.cap="Figure from https://doi.org/10.3390/plants9010034"}
+```{r fig.cap="Figure from Franklin Santos"}
 knitr::include_graphics("/Users/franklin/Documents/R_practice/AgritechJC/_posts/2020-10-27-potato/papa.jpg")
 ```
 
@@ -28,3 +29,4 @@ En este Journal Club se hizo algunas observaciones al artículo.
 - Los **resultados** del artículo no concuerdan con el objetivo de la investigación. Asimismo, no tiene un soporte estadístico inferencial. La falta de visualización en el artículo, dificulta la interpretación de los resultados.
 - Las referencias bibliográficas muestran deficiencias en el soporte de literatura científica y actualizada. Generalmente, no se recomienda citar tesis en un artículo original. 
 
+Cita del artículo[@refmanager].

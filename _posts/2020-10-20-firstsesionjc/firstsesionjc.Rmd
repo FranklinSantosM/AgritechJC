@@ -10,6 +10,7 @@ date: 10-16-2020
 output:
   distill::distill_article:
     self_contained: false
+bibliography: refs.bib
 ---
 
 
@@ -24,3 +25,5 @@ Puede acceder a la [presentación](https://docs.google.com/presentation/d/1VgNYO
 ```{r fig.cap="Figure from https://doi.org/10.3390/plants9010034"}
 knitr::include_graphics("/Users/franklin/Documents/R_practice/AgritechJC/_posts/2020-10-20-firstsesionjc/plants.png")
 ```
+
+Cita del artículo[@refmanager].
