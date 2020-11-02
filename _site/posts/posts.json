@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-11-02-oat/",
+    "title": "JC: Rendimiento y calidad nutricional de avena forrajera",
+    "description": "El viernes 6 de noviembre de 2020 a horas 16:00, se presentará el artículo original: \"Rendimiento y calidad nutricional de avena en la región de Puno\".",
+    "author": [
+      {
+        "name": "Expositor Cesar R. Pillco",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-11-02",
+    "categories": [],
+    "contents": "\nResumen\nEl estudio se realizó con el objetivo de determinar el rendimiento, composición química y valor nutricional del cultivo de avena forrajera, bajo condiciones del altiplano de Puno. Las muestras fueron analizadas para determinar la composición química del forraje mediante el método de análisis de Weende, así como la determinación de fibra detergente neutro (FDN) y fibra detergente ácido (FDA) mediante el método de Van Soest; con estos resultados fueron calculados los valores nutricionales de materia seca digestible (MSD), el consumo de materia seca (CMS), el valor relativo del forraje (VRF) y la energía neta de lactancia (ENL). Los resultados, evidencian un rendimiento promedio de 23.04 ± 3.86 t ha-1 de materia verde; el promedio de la composición química fue 27.95 ± 1.58 % de MS, 5.60 ± 0.67 % de ceniza total (CT), 8.67 ± 0.64 % de proteína cruda (PC), 7.99 ± 0.70 % de extracto etéreo (EE), 30.77 ± 3.33 % de carbohidratos no fibrosos (CNF), 46.97 ± 3.59 % de FDN, 28.78 ± 1.94 % de FDA, 18.19 ± 2.56 % de hemicelulosa (HC), siendo los valores nutricionales 66.48 ± 1.59 % de MSD, 2.63 ± 0.26 % de CMS, 136.39 ± 15.85 de VRF y 1.33 ± 0.04 Mcal kg-1 MS de ENL. Se concluye que el cultivo de avena forrajera, es una excelente alternativa productiva para el ganado lechero bajo condiciones del altiplano de Puno, con gran potencial de rendimiento y calidad nutritiva.\n\n\n\nFigure 1: Figure from Franklin Santos\n\n\n\nCita del atículo(Mamani and Cotacallapa 2018).\n\n\n\nMamani, Javier, and Félix H. Cotacallapa. 2018. “Rendimiento Y Calidad Nutricional de Avena Forrajera En La Región de Puno.” Journal of High Andean Research. https://doi.org/10.18271/ria.2018.415.\n\n\n\n\n",
+    "preview": "posts/2020-11-02-oat/IMG_8042.jpg",
+    "last_modified": "2020-11-02T10:21:28-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2020-10-27-potato/",
     "title": "JC: Fenología y rendimiento de papa",
     "description": "El viernes 30 de octubre de 2020 a horas 16:00, se presentó el artículo: \"Fenología y rendimiento de cuatro variedades de papa en el Altiplano peruano\".",
