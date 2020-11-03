@@ -3,6 +3,7 @@ title: "Agri-Tech Journal Club"
 description: |
   Agri-Tech JC
 output_dir: "_site"
+google_analytics: "G-PKNT30BN78"
 navbar:
   right:
     - text: "Home"
