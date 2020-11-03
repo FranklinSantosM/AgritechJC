@@ -2,6 +2,7 @@ name: "AgritechJC"
 title: "Agri-Tech Journal Club"
 description: |
   Agri-Tech JC
+base_url: https://agritechjc.netlify.app
 output_dir: "_site"
 google_analytics: "G-PKNT30BN78"
 navbar:
@@ -19,8 +20,15 @@ navbar:
     - icon: fa fa-github
       href: https://github.com/FranklinSantosM    
 output: distill::distill_article
-
+twitter:
+  site: "@FranklinSantosM"
+  creator: "@FranklinSantosM"
+rss:
+  full_content: true
 collections:
   posts:
+    share: [twitter, linkedin, facebook]
+    citation: true
     feed_items_max: 20
     subscribe: _subscribe.html
+    disqus: https-agritechjc-netlify-app

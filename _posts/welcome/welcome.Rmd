@@ -7,10 +7,23 @@ author:
     url: https://example.com/norajones
     affiliation: INIAF
     affiliation_url: https://example.com/spacelysprokets
+base_url: https://agritechjc.netlify.app
 date: 10-01-2020
+#preview: IMG.jpg
 output:
   distill::distill_article:
+    toc: true
+    toc_depth: 3
     self_contained: false
+    highlight: default
+    highlight_downlit: true
+#categories:
+ # - Welcome
+ # - Journal Club
+ # - Agri-Tech
+  twitter:
+    site: "@FranklinSantosM"
+    creator: "@FranklinSantosM"
 ---
 
 ```{r setup, include=FALSE}
