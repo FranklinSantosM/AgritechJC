@@ -1,0 +1,27 @@
+---
+title: "Equipo de investigadores"
+description: |
+---
+## Desarrollador del sitio web
+[Franklin Santos](https://franklinsantos.netlify.app)
+
+## Equipo técnico
+
+| Nombres                   | Descripción                   |
+|---------------------------|-------------------------------|
+| Félix Marza, Ph.D.        | Investigador Principal        |
+| Soledad Chavez, B.Sc.     | Investigador Técnico          |
+| Franklin Santos, B.Sc.    | Investigador Técnico          |
+
+## Equipo de tesistas
+Equipo de investigación durante la campaña agrícola 2019-2020 en la Estación Experimental de Kallutaca de la Universida Pública de El Alto.
+
+| Nombres                   | Descripción                   |
+|---------------------------|-------------------------------|
+| Noemy Dorcas              | Tesista "Trigo"               |
+| Alex Mendoza              | Tesista "Tubérculos menores"  |
+| Cesar Rodrigo             | Tesista "Avena forrajera"     |
+| Javier Mamani             | Tesista "Papa"                |
+| Verónica Lecona           | Tesista "Quinua"              |
+| Gabriela Aruquipa         | Tesista "Cebolla"             |
+

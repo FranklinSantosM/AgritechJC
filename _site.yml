@@ -9,6 +9,8 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Authors"
+      href: authors.html      
     - text: "About"
       href: about.html
     - icon: fa fa-rss
