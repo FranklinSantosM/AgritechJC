@@ -18,10 +18,10 @@ Equipo de investigación durante la campaña agrícola 2019-2020 en la Estación
 
 | Nombres                   | Descripción                   |
 |---------------------------|-------------------------------|
-| Noemy Dorcas              | Tesista "Trigo"               |
-| Alex Mendoza              | Tesista "Tubérculos menores"  |
-| Cesar Rodrigo             | Tesista "Avena forrajera"     |
-| Javier Mamani             | Tesista "Papa"                |
-| Verónica Lecona           | Tesista "Quinua"              |
-| Gabriela Aruquipa         | Tesista "Cebolla"             |
+| Noemy Dorcas              | Cultivo "Trigo"               |
+| Alex Mendoza              | Cultivo "Tubérculos menores"  |
+| Cesar Rodrigo             | Cultivo "Avena forrajera"     |
+| Javier Mamani             | Cultivo "Papa"                |
+| Verónica Lecona           | Cultivo "Quinua"              |
+| Gabriela Aruquipa         | Cultivo "Cebolla"             |
 
