@@ -1,9 +1,35 @@
 ---
 title: "About this blog"
 description: |
-  Somos un club de investigadores de las ciencias agropecuarias. Agri-Tech Journal Club es un centro de discusión y revisión de trabajos de investigación publicadas en revistas científicas de alto impacto. 
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+¡Bienvenidos a nuestro blog! Aquí encontrará los eventos próximos y concretados en el Journal Club de las Ciencias Agropecuarias. Podrá observar las discuciones de las investigaciones referidas a los cultivos de Trigo, Papa, Quinua, Tubérculos menores y Avena forrajera. **Agri-Tech Journal Club** es un centro de discusión y revisión de trabajos de investigación publicadas en revistas científicas de alto impacto. 
+
+## Invitación
+Se hace extensiva la invitación a todos los científicos investigadores, estudiantes, tesistas de las ciencias agropecuarias para compartir experiencias en nuestro Journal Club. Tambien, le invitamos a seguir en nuestras redes sociales de [Facebook](https://facebook.com/agritechbolivia), en la cual compartimos información relevante referidas a la *ciencia de datos* con **R**.
+
+## Equipo de investigadores
+Somos un equipo de investigadores de las ciencias agropecuarias, que trata de compartir experiencias y discutir trabajos de investigación de nuestro Journal Club. 
+
+Equipo de investigación de la Estación Experimental de Kallutaca en la campaña agrícola 2019-2020.
+
+| Nombres                   | Descripción                   |
+|---------------------------|-------------------------------|
+| Félix Marza, Ph.D.        | Investigador Principal        |
+| Franklin Santos, B.Sc.    | Investigador Técnico          |
+| Noemy Dorcas              | Tesista "Trigo"               |
+| Alex Mendoza              | Tesista "Tubérculos menores"  |
+| Cesar Rodrigo             | Tesista "Avena forrajera"     |
+| Javier Mamani             | Tesista "Papa"                |
+| Verónica Lecona           | Tesista "Quinua"              |
+| Gabriela Aruquipa         | Tesista "Cebolla"             |
+
+
+
+
+
+
