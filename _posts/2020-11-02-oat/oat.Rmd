@@ -1,7 +1,7 @@
 ---
 title: "JC: Rendimiento y calidad nutricional de avena forrajera"
 description: |
-  El viernes 6 de noviembre de 2020 a horas 16:00, se presentará el artículo original: "Rendimiento y calidad nutricional de avena en la región de Puno".
+  El viernes 6 de noviembre de 2020 a horas 16:00, se presentó el artículo original: "Rendimiento y calidad nutricional de avena en la región de Puno".
 author:
   - name: Expositor Cesar R. Pillco
     url: https://example.com/norajones
@@ -24,8 +24,11 @@ El estudio se realizó con el objetivo de determinar el rendimiento, composicio
 knitr::include_graphics("/Users/franklin/Documents/R_practice/AgritechJC/_posts/2020-11-02-oat/IMG_8042.jpg")
 ```
 
+## Discusión sobre el artículo
+En la investigación se pudo observar que no tuvieron resultados significativos de rendimiento forrajero. 
+En la sección de resultados no presenta figuras, la cual dificulta la comprensión de los resultados obentenidos. Por otro lado, algunas referencias son muy desactualizadas. Esto podría reducir la relevancia de los resultados de investigación.
 
-Cita del atículo[@refmanager].
+Cita del artículo[@refmanager].
 
 
 
