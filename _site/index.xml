@@ -7,7 +7,16 @@
     <description>Agri-Tech JC
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>JC: Efecto de fertilización en el rendimiento de papa</title>
+      <dc:creator>Expositor Javier Mamani</dc:creator>
+      <link>https://agritechjc.netlify.app/posts/2020-11-09-nitrogenpotato</link>
+      <description>El viernes 13 de noviembre de 2020 a horas 16:00, se presentará el artículo original: "Effect of nitrogen and phosphorus fertilization sources on the potato crop yield (*Solanum tuberosum* L.)".</description>
+      <guid>https://agritechjc.netlify.app/posts/2020-11-09-nitrogenpotato</guid>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://agritechjc.netlify.app/posts/2020-11-09-nitrogenpotato/img.png" medium="image" type="image/png" width="2170" height="1318"/>
+    </item>
     <item>
       <title>JC: Rendimiento y calidad nutricional de avena forrajera</title>
       <dc:creator>Expositor Cesar R. Pillco</dc:creator>
