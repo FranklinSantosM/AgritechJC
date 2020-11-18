@@ -7,7 +7,16 @@
     <description>Agri-Tech JC
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>JC: Manejo agronómico y rendimiento de quinua</title>
+      <dc:creator>Expositor Veronica Lecoña</dc:creator>
+      <link>https://agritechjc.netlify.app/posts/2020-11-17-quinoa</link>
+      <description>El viernes 20 de noviembre de 2020 a horas 16:00, se presentará el artículo original: "Evaluación del rendimiento de quinua bajo diferentes densidades, fertilización y métodos de siembra en Cauca"</description>
+      <guid>https://agritechjc.netlify.app/posts/2020-11-17-quinoa</guid>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://agritechjc.netlify.app/posts/2020-11-17-quinoa/quinoa.jpg" medium="image" type="image/jpeg"/>
+    </item>
     <item>
       <title>JC: Efecto de la fertilización nitrogenada y fosforada en el rendimiento de papa</title>
       <dc:creator>Expositor Javier Mamani</dc:creator>
