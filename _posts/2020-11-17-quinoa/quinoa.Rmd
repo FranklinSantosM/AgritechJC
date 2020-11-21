@@ -1,7 +1,7 @@
 ---
 title: "JC: Manejo agronómico y rendimiento de quinua"
 description: |
-  El viernes 20 de noviembre de 2020 a horas 16:00, se presentará el artículo original: "Evaluación del rendimiento de quinua bajo diferentes densidades, fertilización y métodos de siembra en Cauca"
+  El viernes 20 de noviembre de 2020 a horas 16:00, se presentó el artículo original: "Evaluación del rendimiento de quinua bajo diferentes densidades, fertilización y métodos de siembra en Cauca"
 author:
   - name: Expositor Veronica Lecoña
     url: https://example.com/norajones
@@ -16,6 +16,17 @@ bibliography: refs.bib
 ### Resumen
 
 Esta investigación se realizó en el municipio de Bolívar - Cauca, vereda El Tambo, Corregimiento Los Milagros, localizado a 2589 m.s.n.m, donde se evaluó el comportamiento del ecotipo Blanca del Cauca bajo 3 niveles de fertilización, con 3 densidades de siembra y 3 métodos de siembra bajo un diseño de parcelas subdivididas con 3 repeticiones y el ecotipo PROCAUCA 016 con 2 densidades de siembra y 2 niveles de fertilización en un diseño completamente al azar con 3 repeticiones. Las variables de respuesta fueron las fases fenológicas y los componentes de rendimiento. Para la preparación del terreno se utilizó labranza mínima, la parcela útil estuvo constituida por los 3 surcos centrales tomando 4 m efectivos, se dejaron 50 cm de cabecera a cada lado y los 2 surcos laterales como bordes, los tratamientos se deter- minaron can base en análisis de suelo y la experiencia de los investigadores en el manejo del cultivo. El ciclo productivo estuvo entre 116,2 y 168,6 días evidenciando la precocidad de PROCAUCA 016, en cuanto a rendimiento para Blanca del Cauca, los mejores resultados se obtuvieron con trasplante de plantas provenientes de siembra en bandeja comercial, densidad chorrillo con fertilización testigo y con PROCAUCA 016 los mejores resultados se obtuvieron con siembra a chorrillo y fertilización ideal.
+
+### Conclusion del Journal Club
+
+Los participantes del club, observaron los siguientes aspectos:
+
+* En la sección de resumen existe algunas inconsistencias de forma. Además, la gran parte de la narración expone la metodología y no así los resultados mas sobresalientes de la investigación. 
+* La introducción no es consistente con los objetivos de la investigación. Asimismo, en muchas aseveraciones no existe soporte bibliográfico.
+* La sección de materiales y métodos muestra errores de forma. Además, se debería sintetizar algunos párrafos. El diseño experimental del trabajo de investigación es muy confuso. Esta sección se asemeja a una extracción de tesis.
+* En la sección de resultados se observó la falta figuras para que los resultados sean más informativas e interpretables. Los cuadros presentados no se adecuan a formatos de revistas científicas.
+* Los autores no presentan una sección de discusión 
+* Las conclusiones son muy ambiguas, generalmente esta sección debería ser más concreta y clara en función a los resultados más preponderantes.
 
 Cita del artículo[@refmanager]
 
