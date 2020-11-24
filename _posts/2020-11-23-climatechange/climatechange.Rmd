@@ -1,7 +1,7 @@
 ---
 title: "JC: Adopción de cultivos con tolerancia a factores adversos"
 description: |
-  El viernes 27 de noviembre de 2020 a horas 16:00, se presentará el artículo de revisión: "A scoping review of adoption of climate-resilient crops by small-scale producers in low- and middle-income countriesa". 
+  El viernes 27 de noviembre de 2020 a horas 16:00, se presentará el artículo de revisión: "A scoping review of adoption of climate-resilient crops by small-scale producers in low- and middle-income countries". 
 author:
   - name: Expositor Franklin Santos
     url: https://example.com/norajones
