@@ -1,0 +1,26 @@
+---
+title: "JC: Adopción de cultivos con tolerancia a factores adversos"
+description: |
+  El viernes 27 de noviembre de 2020 a horas 16:00, se presentará el artículo de revisión: "A scoping review of adoption of climate-resilient crops by small-scale producers in low- and middle-income countriesa". 
+author:
+  - name: Expositor Franklin Santos
+    url: https://example.com/norajones
+date: 11-23-2020
+preview: clim.png
+output:
+  distill::distill_article:
+    self_contained: false
+bibliography: refs.bib
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Resumen del artículo
+Se han recomendado cultivos y variedades de cultivos resistentes al clima como una forma para que los agricultores enfrenten o se adapten al cambio climático, pero a pesar de los aparentes beneficios, las tasas de adopción por parte de los pequeños agricultores son muy variables. Aquí presentamos una revisión de alcance, utilizando PRISMA-P (Elementos de informe preferidos para la revisión sistemática y los protocolos de metaanálisis), que examina las condiciones que han llevado a la adopción de cultivos resistentes al clima durante los últimos 30 años en países de ingresos bajos y medios. El análisis descriptivo realizado en 202 artículos muestra que los pequeños productores adoptaron cultivos y variedades resistentes al clima para hacer frente a tensiones abióticas como la sequía, el calor, las inundaciones y la salinidad. El rasgo más prevalente en nuestro conjunto de datos fue la tolerancia a la sequía, seguido de la eficiencia en el uso del agua. Nuestro análisis encontró que los determinantes más importantes de la adopción de cultivos resilientes al clima fueron la disponibilidad y efectividad de los servicios de extensión y la divulgación, seguidos por los niveles de educación de los jefes de hogar, el acceso de los agricultores a insumos, especialmente semillas y fertilizantes, y la situación socioeconómica de familias de agricultores. Alrededor del 53% de los estudios informaron que las diferencias sociales como el sexo, la edad, el estado civil y la etnia afectaron la adopción de variedades o cultivos como estrategias de adaptación al cambio climático. Sobre la base de la evidencia recopilada, este estudio presenta una serie de vías e intervenciones que podrían contribuir a mayores tasas de adopción de cultivos resistentes al clima y reducir la desaprobación.
+
+Cita del artículo[@refmanager]
+
+
