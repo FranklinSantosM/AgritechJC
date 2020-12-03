@@ -1,7 +1,7 @@
 ---
 title: "JC: Caracterización de genotipos de trigo para tolerancia a la sequía y eficiencia en el uso del agua"
 description: |
-  El viernes 04 de diciembre de 2020 a horas 16:00, se discutirá el artículo original: "Characterization of wheat genotypes for drought tolerance and water use efficiency". Este artículo se encuentra publicada en la revista Scientia Agricola, la cual está indexada en Crop Science y Scielo.
+  El viernes 04 de diciembre de 2020 a horas 16:00, se discutirá el artículo original: "Characterization of wheat genotypes for drought tolerance and water use efficiency". Este artículo se encuentra publicada en la revista Scientia Agricola, la cual está indexada en Scielo.
 author:
   - name: Noemy Dorcas Ticona
     url: https://example.com/norajones
