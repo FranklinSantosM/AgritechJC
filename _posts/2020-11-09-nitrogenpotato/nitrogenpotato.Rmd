@@ -2,6 +2,10 @@
 title: "JC: Efecto de la fertilización nitrogenada y fosforada en el rendimiento de papa"
 description: |
   El viernes 13 de noviembre de 2020 a horas 16:00, se presentó el artículo original: "Effect of nitrogen and phosphorus fertilization sources on the potato crop yield (*Solanum tuberosum* L.)".
+categories:
+  - Potato
+  - Agronomics Research
+  - Crop Yield
 author:
   - name: Expositor Javier Mamani
     url: https://example.com/norajones

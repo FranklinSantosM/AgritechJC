@@ -2,6 +2,10 @@
 title: "JC: Manejo agronómico y rendimiento de quinua"
 description: |
   El viernes 20 de noviembre de 2020 a horas 16:00, se presentó el artículo original: "Evaluación del rendimiento de quinua bajo diferentes densidades, fertilización y métodos de siembra en Cauca"
+categories: 
+  - Quinoa
+  - Crop Yield
+  - Agronomics Research
 author:
   - name: Expositor Veronica Lecoña
     url: https://example.com/norajones

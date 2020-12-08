@@ -1,5 +1,5 @@
 ---
-title: "Agri-Tech JC"
+title: ""
 site: distill::distill_website
 listing: posts
 ---

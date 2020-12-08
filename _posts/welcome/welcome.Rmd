@@ -2,6 +2,10 @@
 title: "Bienvenido a Agri-Tech Journal Club"
 description: |
   Bienvenido a nuestro nuevo blog, Agri-Tech JC. Somos un club de investigadores de las ciencias agropecuarias.
+categories:
+  - Welcome
+  - Journal Club
+  - Agri-Tech
 author:
   - name: Franklin Santos
     url: https://example.com/norajones
@@ -9,7 +13,7 @@ author:
     affiliation_url: https://example.com/spacelysprokets
 base_url: https://agritechjc.netlify.app
 date: 10-01-2020
-#preview: IMG.jpg
+preview: IMG.jpg
 output:
   distill::distill_article:
     toc: true
@@ -17,10 +21,6 @@ output:
     self_contained: false
     highlight: default
     highlight_downlit: true
-#categories:
- # - Welcome
- # - Journal Club
- # - Agri-Tech
   twitter:
     site: "@FranklinSantosM"
     creator: "@FranklinSantosM"
@@ -70,8 +70,4 @@ Equipo de investigación en la Estación Experimental de Kallutaca en la campañ
 | Gabriela Aruquipa         | Tesista "Cebolla"             |
 
 
-
-```{r fig.cap="Figure from https://doi.org/10.1371/journal.pone.0236351"}
-knitr::include_graphics("/Users/franklin/Documents/R_practice/AgritechJC/_posts/welcome/IMG.jpg")
-```
 

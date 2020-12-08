@@ -2,6 +2,10 @@
 title: "JC: Criterios de selección para híbridos de trigo harinero"
 description: |
   Título del artículo: "Selection criteria for high-yielding and early-flowering bread wheat hybrids under heat stress"
+categories:
+  - Wheat
+  - Crop Yield
+  - Adverse Factors
 author:
   - name: Expositor Noemy Dorcas 
     url: https://example.com/norajones

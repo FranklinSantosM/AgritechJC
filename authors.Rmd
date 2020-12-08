@@ -16,12 +16,12 @@ description: |
 ## Equipo de tesistas
 Equipo de investigación durante la campaña agrícola 2019-2020 en la Estación Experimental de Kallutaca de la Universida Pública de El Alto.
 
-| Nombres                   | Descripción                   |
-|---------------------------|-------------------------------|
-| Noemy Dorcas              | Cultivo "Trigo"               |
-| Alex Mendoza              | Cultivo "Tubérculos menores"  |
-| Cesar Rodrigo             | Cultivo "Avena forrajera"     |
-| Javier Mamani             | Cultivo "Papa"                |
-| Verónica Lecona           | Cultivo "Quinua"              |
-| Gabriela Aruquipa         | Cultivo "Cebolla"             |
+| Nombres           | Título de Tésis                   |
+|-------------------|-------------------------------|
+| Noemy D. Ticona      | Aptitud productiva de nueve líneas élites de trigo harinero (*Triticum aestivum* L.) en el Altiplano norte de La Paz               |
+| Alex Mendoza      | Pre-mejoramiento de papa y tubérculos menores en la Estación Experimental de Kallutaca  |
+| Cesar R. Pillco     | Rendimiento y valor nutricional de ocho variedades de avena forrajera en condiciones de la Estación Experimental de Kallutaca     |
+| Javier Mamani     | Análisis agroeconómico de fuentes orgánicas de fertilización sobre la variedad de papa (*Solanum stenotonum*) Puka Sakampaya en la Estación Experimental de Kallutaca                |
+| Verónica Lecona   | Características de productividad, tolerancia a factores bióticos y abióticos adversos en cultivares de quinua preseleccionada bajo condiciones de la Estación Experimental de Kallutaca              |
+| Gabriela Aruquipa | Optimización de la aplicación de la fertilización de nitrógeno, fósforo y potasio en los componentes de rendimiento de la cebolla (*Allium cepa* L.) utilizando la metodología de superficie de respuesta (RSM)             |
 

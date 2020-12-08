@@ -13,6 +13,9 @@
       <dc:creator>Noemy Dorcas Ticona</dc:creator>
       <link>https://agritechjc.netlify.app/posts/2020-12-02-charact-wheat</link>
       <description>El viernes 04 de diciembre de 2020 a horas 16:00, se presentó el artículo original: "Characterization of wheat genotypes for drought tolerance and water use efficiency". Este artículo se encuentra publicada en la revista Scientia Agricola, la cual está indexada en Scielo.</description>
+      <category>Wheat</category>
+      <category>Adverse Factors</category>
+      <category>Crop Yield</category>
       <guid>https://agritechjc.netlify.app/posts/2020-12-02-charact-wheat</guid>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       <media:content url="https://agritechjc.netlify.app/posts/2020-12-02-charact-wheat/figure.jpg" medium="image" type="image/jpeg"/>
@@ -22,6 +25,9 @@
       <dc:creator>Franklin Santos</dc:creator>
       <link>https://agritechjc.netlify.app/posts/2020-11-23-climatechange</link>
       <description>El viernes 27 de noviembre de 2020 a horas 16:00, se presentó el artículo de revisión: "A scoping review of adoption of climate-resilient crops by small-scale producers in low- and middle-income countries".</description>
+      <category>Climate Change</category>
+      <category>Adverse Factors</category>
+      <category>Technology Transfer</category>
       <guid>https://agritechjc.netlify.app/posts/2020-11-23-climatechange</guid>
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
       <media:content url="https://agritechjc.netlify.app/posts/2020-11-23-climatechange/clim.png" medium="image" type="image/png" width="1833" height="1254"/>
@@ -31,6 +37,9 @@
       <dc:creator>Expositor Veronica Lecoña</dc:creator>
       <link>https://agritechjc.netlify.app/posts/2020-11-17-quinoa</link>
       <description>El viernes 20 de noviembre de 2020 a horas 16:00, se presentó el artículo original: "Evaluación del rendimiento de quinua bajo diferentes densidades, fertilización y métodos de siembra en Cauca"</description>
+      <category>Quinoa</category>
+      <category>Crop Yield</category>
+      <category>Agronomics Research</category>
       <guid>https://agritechjc.netlify.app/posts/2020-11-17-quinoa</guid>
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
       <media:content url="https://agritechjc.netlify.app/posts/2020-11-17-quinoa/quinoa.jpg" medium="image" type="image/jpeg"/>
@@ -40,6 +49,9 @@
       <dc:creator>Expositor Javier Mamani</dc:creator>
       <link>https://agritechjc.netlify.app/posts/2020-11-09-nitrogenpotato</link>
       <description>El viernes 13 de noviembre de 2020 a horas 16:00, se presentó el artículo original: "Effect of nitrogen and phosphorus fertilization sources on the potato crop yield (*Solanum tuberosum* L.)".</description>
+      <category>Potato</category>
+      <category>Agronomics Research</category>
+      <category>Crop Yield</category>
       <guid>https://agritechjc.netlify.app/posts/2020-11-09-nitrogenpotato</guid>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       <media:content url="https://agritechjc.netlify.app/posts/2020-11-09-nitrogenpotato/img.png" medium="image" type="image/png" width="2170" height="1318"/>
@@ -49,6 +61,9 @@
       <dc:creator>Expositor Cesar R. Pillco</dc:creator>
       <link>https://agritechjc.netlify.app/posts/2020-11-02-oat</link>
       <description>El viernes 6 de noviembre de 2020 a horas 16:00, se presentó el artículo original: "Rendimiento y calidad nutricional de avena en la región de Puno".</description>
+      <category>Forage Oats</category>
+      <category>Crop Yield</category>
+      <category>Nutritional Quality</category>
       <guid>https://agritechjc.netlify.app/posts/2020-11-02-oat</guid>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       <media:content url="https://agritechjc.netlify.app/posts/2020-11-02-oat/IMG_8042.jpg" medium="image" type="image/jpeg"/>
@@ -57,7 +72,10 @@
       <title>JC: Fenología y rendimiento de papa</title>
       <dc:creator>Expositor Alex Mendoza</dc:creator>
       <link>https://agritechjc.netlify.app/posts/2020-10-27-potato</link>
-      <description>El viernes 30 de octubre de 2020 a horas 16:00, se presentó el artículo: "Fenología y rendimiento de cuatro variedades de papa en el Altiplano peruano".</description>
+      <description>El viernes 30 de octubre de 2020 a horas 16:00, se presentó el artículo original: "Fenología y rendimiento de cuatro variedades de papa en el Altiplano peruano".</description>
+      <category>Potato</category>
+      <category>Plant Phenology</category>
+      <category>Crop Yield</category>
       <guid>https://agritechjc.netlify.app/posts/2020-10-27-potato</guid>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       <media:content url="https://agritechjc.netlify.app/posts/2020-10-27-potato/papa.jpg" medium="image" type="image/jpeg"/>
@@ -67,6 +85,9 @@
       <dc:creator>Expositor Noemy Dorcas</dc:creator>
       <link>https://agritechjc.netlify.app/posts/2020-10-23-hibrid-wheat</link>
       <description>Título del artículo: "Selection criteria for high-yielding and early-flowering bread wheat hybrids under heat stress"</description>
+      <category>Wheat</category>
+      <category>Crop Yield</category>
+      <category>Adverse Factors</category>
       <guid>https://agritechjc.netlify.app/posts/2020-10-23-hibrid-wheat</guid>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
       <media:content url="https://agritechjc.netlify.app/posts/2020-10-23-hibrid-wheat/j003.PNG" medium="image" type="image/png" width="3500" height="1902"/>
@@ -76,6 +97,10 @@
       <dc:creator>Expositor Franklin Santos</dc:creator>
       <link>https://agritechjc.netlify.app/posts/2020-10-20-firstsesionjc</link>
       <description>Título del artículo: "Applications and Trends of Machine Learning in Genomics and Phenomics for Next-Generation Breeding".</description>
+      <category>Plant Breeding</category>
+      <category>Machine Learning</category>
+      <category>Genomics</category>
+      <category>Phenomics</category>
       <guid>https://agritechjc.netlify.app/posts/2020-10-20-firstsesionjc</guid>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       <media:content url="https://agritechjc.netlify.app/posts/2020-10-20-firstsesionjc/plants.png" medium="image" type="image/png" width="1150" height="941"/>
@@ -85,6 +110,9 @@
       <dc:creator>Franklin Santos</dc:creator>
       <link>https://agritechjc.netlify.app/posts/welcome</link>
       <description>Bienvenido a nuestro nuevo blog, Agri-Tech JC. Somos un club de investigadores de las ciencias agropecuarias.</description>
+      <category>Welcome</category>
+      <category>Journal Club</category>
+      <category>Agri-Tech</category>
       <guid>https://agritechjc.netlify.app/posts/welcome</guid>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <media:content url="https://agritechjc.netlify.app/posts/welcome/IMG.jpg" medium="image" type="image/jpeg"/>
