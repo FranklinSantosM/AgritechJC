@@ -1,5 +1,29 @@
 [
   {
+    "path": "posts/2020-12-24-predictpotato/",
+    "title": "JC: Predicción de rendimiento de papa mediante dos tecnologías",
+    "description": "El viernes 25 de diciembre de 2020 a horas 16:00, se discutirá el artículo original: \"Prediction of End-Of-Season Tuber Yield and Tuber Set in Potatoes Using In-Season UAV-Based Hyperspectral Imagery and Machine Learning\".",
+    "author": [
+      {
+        "name": "Javier Mamani",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-12-24",
+    "categories": [
+      "Potato",
+      "Yield Prediction",
+      "Machine learning",
+      "Sensors"
+    ],
+    "contents": "\nResumen del artículo\nPotato is the largest non-cereal food crop in the world. Timely estimation of end-of-season tuber production using in-season information can inform sustainable agricultural management decisions that increase productivity while reducing impacts on the environment. Recently, unmanned aerial vehicles (UAVs) have become increasingly popular in precision agriculture due to their flexibility in data acquisition and improved spatial and spectral resolutions. In addition, compared with natural color and multispectral imagery, hyperspectral data can provide higher spectral fidelity which is important for modelling crop traits. In this study, we conducted end-of-season potato tuber yield and tuber set predictions using in-season UAV-based hyperspectral images and machine learning. Specifically, six mainstream machine learning models, i.e., ordinary least square (OLS), ridge regression, partial least square regression (PLSR), support vector regression (SVR), random forest (RF), and adaptive boosting (AdaBoost), were developed and compared across potato research plots with different irrigation rates at the University of Wisconsin Hancock Agricultural Research Station. Our results showed that the tuber set could be better predicted than the tuber yield, and using the multi-temporal hyperspectral data improved the model performance. Ridge achieved the best performance for predicting tuber yield (R2 = 0.63) while Ridge and PLSR had similar performance for predicting tuber set (R2 = 0.69). Our study demonstrated that hyperspectral imagery and machine learning have good potential to help potato growers efficiently manage their irrigation practices.\nCita correcta del artículo Sun et al. (2020)\n\n\n\nSun, Chen, Luwei Feng, Zhou Zhang, Yuchi Ma, Trevor Crosby, Mack Naber, and Yi Wang. 2020. “Prediction of End-of-Season Tuber Yield and Tuber Set in Potatoes Using in-Season Uav-Based Hyperspectral Imagery and Machine Learning.” Sensors 20 (18): 5293. https://doi.org/10.3390/s20185293.\n\n\n\n\n",
+    "preview": "posts/2020-12-24-predictpotato/sensor.png",
+    "last_modified": "2020-12-24T11:30:59-04:00",
+    "input_file": {},
+    "preview_width": 3557,
+    "preview_height": 3948
+  },
+  {
     "path": "posts/2020-12-09-oxalis/",
     "title": "JC: Caracterización morfológica y molecular de oca",
     "description": "El viernes 12 de diciembre de 2020 a horas 16:00, se discutió el artículo original: \"Caracterización mofológica y molecular de *Oxalis tuberosa* Mol. en el departamento de Boyacá\".",

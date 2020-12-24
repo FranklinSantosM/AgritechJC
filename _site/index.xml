@@ -7,7 +7,20 @@
     <description>Agri-Tech JC
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>JC: Predicción de rendimiento de papa mediante dos tecnologías</title>
+      <dc:creator>Javier Mamani</dc:creator>
+      <link>https://agritechjc.netlify.app/posts/2020-12-24-predictpotato</link>
+      <description>El viernes 25 de diciembre de 2020 a horas 16:00, se discutirá el artículo original: "Prediction of End-Of-Season Tuber Yield and Tuber Set in Potatoes Using In-Season UAV-Based Hyperspectral Imagery and Machine Learning".</description>
+      <category>Potato</category>
+      <category>Yield Prediction</category>
+      <category>Machine learning</category>
+      <category>Sensors</category>
+      <guid>https://agritechjc.netlify.app/posts/2020-12-24-predictpotato</guid>
+      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://agritechjc.netlify.app/posts/2020-12-24-predictpotato/sensor.png" medium="image" type="image/png" width="3557" height="3948"/>
+    </item>
     <item>
       <title>JC: Caracterización morfológica y molecular de oca</title>
       <dc:creator>Alexander Mendoza</dc:creator>
