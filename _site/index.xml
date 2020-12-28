@@ -7,7 +7,19 @@
     <description>Agri-Tech JC
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Rendimiento de los cultivos importantes de Bolivia</title>
+      <dc:creator>Franklin Santos</dc:creator>
+      <link>https://agritechjc.netlify.app/posts/2020-12-28-bolivia</link>
+      <description>Tendencias de rendimiento de los cultivos más importantes de Bolivia desde 1984 hasta 2019.</description>
+      <category>R</category>
+      <category>Data Science</category>
+      <category>Crop Yield</category>
+      <guid>https://agritechjc.netlify.app/posts/2020-12-28-bolivia</guid>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://agritechjc.netlify.app/posts/2020-12-28-bolivia/newplot.png" medium="image" type="image/png" width="888" height="576"/>
+    </item>
     <item>
       <title>JC: Predicción de rendimiento de papa mediante dos tecnologías</title>
       <dc:creator>Javier Mamani</dc:creator>
