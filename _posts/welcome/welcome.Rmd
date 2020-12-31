@@ -61,6 +61,7 @@ Equipo de investigación en la Estación Experimental de Kallutaca en la campañ
 | Nombres                   | Descripción                   |
 |---------------------------|-------------------------------|
 | Félix Marza, Ph.D.        | Investigador Principal        |
+| Soledad Chavez, B.Sc.     | Investigador Técnico          |
 | Franklin Santos, B.Sc.    | Investigador Técnico          |
 | Noemy Dorcas              | Tesista "Trigo"               |
 | Alex Mendoza              | Tesista "Tubérculos menores"  |
