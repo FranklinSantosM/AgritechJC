@@ -1,0 +1,25 @@
+---
+title: "JC: Tolerancia de las raíces de papa a la sequía y al pulgón"
+description: |
+  El viernes 15 de enero de 2021 a horas 16:00, se discutirá el artículo original: Comparison of root tolerance to drought and aphid (*Myzus persicae* Sulzer) resistance among different potato (*Solanum tuberosum* L.) cultivars.
+categories:
+  - Potato
+  - Insects Pests
+  - Adverse Factors
+author:
+  - name: Alexander Mendoza
+    url: https://franklinsantos.com
+    affiliation: Universidad Pública de El Alto
+date: 01-14-2021
+preview: potato.png
+output:
+  distill::distill_article:
+    self_contained: false
+bibliography: refs.bib
+---
+## Abstract
+This study was conducted to determine the root system architecture and biochemical responses of three potato (Solanum tuberosum L.) cultivars to drought and aphid (Myzus persicae Sulzer) infestation under greenhouse conditions. A factorial experiment comprising three potato cultivars (Qingshu 9, Longshu 3, and Atlantic), two levels of water (Well watered and drought) application and aphid infestation (Aphids and no aphids) was conducted. The results show that drought stress and aphid infestation significantly increased the root-projected area, root surface area, number of root tips, and number of root forks of all cultivars, relative to their corresponding control plants. The least root projected area, root surface area, number of root tips, and number of root forks occurred on DXY under both drought and aphid infestation. Nevertheless, the greatest root projected area, root surface area, number of root tips and number of root forks occurred on QS9 plants. Moreover, increased SOD, CAT, and POD activities were observed across all cultivars, under drought and aphid stress. The highest SOD, POD, and CAT activities occurred in QS9; under drought and aphid stress, while the least SOD, POD, and CAT activities was observed in DXY. The Atlantic cultivar, which possesses a root system sensitive to water deficit, demonstrated greater resistance to aphid infestation under well-watered and drought-stressed conditions. Conversely, Qingshu 9, which possesses a root system tolerant to water deficit, was highly susceptible to aphids. This study shows that the root architectural and biochemical traits that enhance potato tolerance to drought do not necessarily correlate to a plant’s tolerance to aphids.
+
+Cita correcta del artículo @agri
+
+
