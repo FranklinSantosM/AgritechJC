@@ -1,7 +1,7 @@
 ---
 title: "JC: Fenología estacional de las principales plagas de quinua."
 description: |
-  El viernes 08 de enero de 2021 a horas 16:00, se discutirá el artículo original: "Seasonal Phenology of the Major Insect Pests of Quinoa (*Chenopodium quinoa* Wild.) and Their Natural Enemies in a Traditional Zone and Two New Production Zones of Peru".
+  El viernes 08 de enero de 2021 a horas 16:00, se discutió el artículo original: "Seasonal Phenology of the Major Insect Pests of Quinoa (*Chenopodium quinoa* Wild.) and Their Natural Enemies in a Traditional Zone and Two New Production Zones of Peru".
 categories:
   - Quinoa
   - Insects Pests
@@ -23,5 +23,10 @@ Over the last decade, the sown area of quinoa (*Chenopodium quinoa* Willd.) has 
 
 **Keywords**: quinoa; *Eurysacca melanocampta*; *Macrosiphum euphorbiae*; *Liriomyza huidobrensis*; *Frankliniella occidentalis*; natural enemies; IPM; Peru. 
 
+## Conclusiones del Journal Club
+
+- La investigación presenta un aporte significativo para implementar un manejo integrado de plagas de quinua en distintos ambientes.
+- Se destacó información de la incidencia estacional de las principales plagas de insectos y sus enemigos naturales.
+- Las evidencias de la investigación  establece que la presión de plagas de quinua es mayor en tierras bajas que en las tierras altas.
 
 Cita correcta del artículo @agri
