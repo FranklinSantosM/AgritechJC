@@ -1,0 +1,32 @@
+---
+title: "Irrigación por goteo superficial en el cultivo de papa"
+description: |
+  El viernes 22 de enero de 2021 a horas 16:00, se discutió el artículo original: Requirements and Effects of Surface Drip Irrigation of Mid-Early Potato Cultivar Courage on a Very Light Soil in Central Poland.
+categories:
+  - Potato
+  - Drip Irrigation
+  - Nitrogen Fertilization
+author:
+  - name: Javier Mamani
+    url: https://franklinsantos.com
+    affiliation: Universidad Pública de El Alto
+date: 01-22-2021
+preview: agro.png
+output:
+  distill::distill_article:
+    self_contained: false
+bibliography: refs.bib
+---
+## Abstract
+The purpose of this research was to determine the water needs and results of drip irrigation of mid-early potato cultivar Courage. Studies were carried out in central Poland in 2011–2013 on very light soil. The experiment was designed as two-factorial trials with four replications. The first factor was drip irrigation: O = control (without irrigation), D = drip irrigation. The second factor was the nitrogen fertilization method: P = broadcasting, F = drip fertigation. Nitrogen fertilization was 120 kg N ha^−1^ on each plot. Crop coefficients for irrigation period were 0.4 in June and 0.6 in July and August. According to calculations based on the crop coefficients and correction coefficients acc. HargreavesDA model the water requirement of potato for June–August was 202 mm. Drip irrigation increased the marketable tuber yield by 55%. Irrigation water use efficiency increased from 257 kg ha^−1^ mm^−1^ in D + P to 264 kg ha^−1^ mm^−1^ in D + F. The productivity of 1 kg of nitrogen fertilization was 189 kg ha^−1^ in control non-irrigated plots and 321 kg ha^−1^ in drip-irrigated plots, and it rose up to 337 kg ha^−1^ when fertilization was applied by fertigation.
+
+## Conclusiones del Journal Club
+- La investigación asevera que la productividad se incrementa significativamente con la adición de riego por goteo combinado con fertirrigación por goteo.
+- La investigación presenta información relevante para ser reproducible. Por tanto, esta investigación se podría replicar en condiciones del Altiplano Boliviano.
+- Se pudo identificar algunas observaciones de forma, como cuadros alrededor de las figuras. En el analisis de varianza, existe una fila de interacción que al parecer se repite. 
+
+
+Cita correcta del artículo @agro
+
+
+

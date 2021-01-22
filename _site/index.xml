@@ -7,7 +7,19 @@
     <description>Agri-Tech JC
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Irrigación por goteo superficial en el cultivo de papa</title>
+      <dc:creator>Javier Mamani</dc:creator>
+      <link>https://agritechjc.netlify.app/posts/2021-01-22-drippotato</link>
+      <description>El viernes 22 de enero de 2021 a horas 16:00, se discutió el artículo original: Requirements and Effects of Surface Drip Irrigation of Mid-Early Potato Cultivar Courage on a Very Light Soil in Central Poland.</description>
+      <category>Potato</category>
+      <category>Drip Irrigation</category>
+      <category>Nitrogen Fertilization</category>
+      <guid>https://agritechjc.netlify.app/posts/2021-01-22-drippotato</guid>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://agritechjc.netlify.app/posts/2021-01-22-drippotato/agro.png" medium="image" type="image/png" width="2376" height="1689"/>
+    </item>
     <item>
       <title>JC: Tolerancia de las raíces de papa a la sequía y al pulgón</title>
       <dc:creator>Alexander Mendoza</dc:creator>
