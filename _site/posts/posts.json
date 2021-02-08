@@ -1,5 +1,28 @@
 [
   {
+    "path": "posts/2021-02-05-quinoapatogen/",
+    "title": "Variación genética de quinua con tolerancia a Peronospora variabilis",
+    "description": "El viernes 05 de febrero de 2021 a horas 16:00, se discutió el artículo original: Genetic variation for tolerance to the downy mildew pathogen Peronospora variabilis in genetic resources of quinoa (*Chenopodium quinoa*).",
+    "author": [
+      {
+        "name": "Verónica Lecoña",
+        "url": "https://franklinsantos.com"
+      }
+    ],
+    "date": "2021-02-05",
+    "categories": [
+      "Quinoa",
+      "Peronospora Variabilitis",
+      "Genetic Variation"
+    ],
+    "contents": "\nAbstract\nBackground\nQuinoa (Chenopodium quinoa Willd.) is an ancient grain crop that is tolerant to abiotic stress and has favorable nutritional properties. Downy mildew is the main disease of quinoa and is caused by infections of the biotrophic oomycete Peronospora variabilis Gaüm. Since the disease causes major yield losses, identifying sources of downy mildew tolerance in genetic resources and understanding its genetic basis are important goals in quinoa breeding.\nResults\nWe infected 132 South American genotypes, three Danish cultivars and the weedy relative C. album with a single isolate of P. variabilis under greenhouse conditions and observed a large variation in disease traits like severity of infection, which ranged from 5 to 83%. Linear mixed models revealed a significant effect of genotypes on disease traits with high heritabilities (0.72 to 0.81). Factors like altitude at site of origin or seed saponin content did not correlate with mildew tolerance, but stomatal width was weakly correlated with severity of infection. Despite the strong genotypic effects on mildew tolerance, genome-wide association mapping with 88 genotypes failed to identify significant marker-trait associations indicating a polygenic architecture of mildew tolerance.\nConclusions\nThe strong genetic effects on mildew tolerance allow to identify genetic resources, which are valuable sources of resistance in future quinoa breeding.\nJournal Club Conclusion\nEl artículo presenta resultados sobresalientes que podrían ayudar a identificar genotipos con tolerancia al mildiu.\nLa investigación revela que los datos de severidad e incidencia reportados en los registros de pasaporte de las accesiones de los bancos de germoplasma son muy incongruentes con los resultados obtenidos en la investigación. Por tanto, genera incertidumbre de la calidad de información disponible en los bancos de germoplasma.\nLa investigación demostró que la infección cruzada de Chenopodium album a Chenopodium quinoa y viceversa son factibles.\nCita correcta del artículo Colque-Little et al. (2021)\n\n\n\nColque-Little, Carla, Miguel Correa-Abandonado, Ole Søgaard-Lund, Daniel Buchvaldt-Amby, Hans Peter Piepho, Christian Andreasen, Sandra Schmöckel, and Karl Schmid. 2021. “Genetic Variation for Tolerance to the Downy Mildew Pathogen Peronospora Variabilis in Genetic Resources of Quinoa (Chenopodium Quinoa).” BMC Plant Biology 21 (41): 1–19. https://doi.org/10.1186/s12870-020-02804-7.\n\n\n\n\n",
+    "preview": "posts/2021-02-05-quinoapatogen/qui.png",
+    "last_modified": "2021-02-07T20:19:30-04:00",
+    "input_file": "quinoapatogen.utf8.md",
+    "preview_width": 1181,
+    "preview_height": 1474
+  },
+  {
     "path": "posts/2021-01-22-drippotato/",
     "title": "Irrigación por goteo superficial en el cultivo de papa",
     "description": "El viernes 22 de enero de 2021 a horas 16:00, se discutió el artículo original: Requirements and Effects of Surface Drip Irrigation of Mid-Early Potato Cultivar Courage on a Very Light Soil in Central Poland.",
