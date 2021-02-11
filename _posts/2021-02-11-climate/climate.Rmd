@@ -1,0 +1,99 @@
+---
+title: "Análisis de datos climáticos"
+description: |
+  Breve análisis de datos climáticos de la Estación Experimental de Kallutaca, durante la campaña agrícola 2019-2020.
+categories:
+  - Tidyverse
+  - Climate Analysis
+  - Kallutaca
+author:
+  - name: Franklin Santos
+    url: https://franklinsantos.com
+    affiliation: Universidad Pública de El Alto
+date: 02-11-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+### Load library
+```{r, echo=TRUE}
+library(tidyverse)
+library(readxl)
+```
+
+
+
+### Import data
+
+```{r, echo=TRUE}
+kallutaca <- read_xlsx("Weather_Kallutaca.xlsx",
+                       sheet = "Hoja1")
+kallutaca
+```
+
+### Pivot data
+```{r, echo=TRUE}
+fsg <- kallutaca %>%
+  pivot_longer(
+    cols = c("Mean_temp", "High_t", "Low_t", "Rain"), 
+    names_to = "Var_weat", 
+    values_to = "weather"
+  )
+```
+
+### Different Plots 
+```{r, layout="l-body-outset", fig.width=10, fig.height=6, echo=TRUE}
+## High temperature
+ggplot(kallutaca, aes(Time_h, High_t)) +
+  geom_boxplot(colour = "blue")+
+  geom_jitter(colour = "blue")
+
+
+## Law temperature
+ggplot(kallutaca, aes(Time_l, Low_t)) +
+  geom_boxplot(colour = "red")+
+  geom_jitter(colour = "red")
+
+## High wind
+ggplot(kallutaca, aes(Time_w, High_w)) +
+  geom_violin(colour = "purple")+
+  geom_jitter(colour = "purple")
+
+## Dominance direction wind
+ggplot(kallutaca, aes(Dom_Dir, High_w)) +
+  geom_violin(colour = "blue")+
+  geom_jitter(colour = "blue")
+```
+
+
+
+### Rain Plot and temperature
+
+```{r, layout="l-body-outset", fig.width=10, fig.height=6, echo=TRUE}
+library(plotly)
+p <- ggplot(fsg, aes(x=Date, y=weather, color = Var_weat)) + 
+  geom_point(size=1) +
+  geom_line() + 
+  xlab("Months") + 
+  ylab("")
+
+fig <- ggplotly(p)
+fig
+```
+
+
+```{r, layout="l-body-outset", fig.width=10, fig.height=6, echo=TRUE}
+fs <- fsg %>%
+  ggplot(aes(Date, weather, color = Var_weat)) +
+  geom_line() +
+  facet_wrap(~Var_weat, ncol = 1) +
+  labs(x = "Month", y = "")
+
+fig2 <- ggplotly(fs)
+fig2
+```
+
+
+
+
