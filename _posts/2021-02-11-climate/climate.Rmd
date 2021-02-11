@@ -94,6 +94,18 @@ fig2 <- ggplotly(fs)
 fig2
 ```
 
+### Pearson Correlation
+```{r, layout="l-body-outset", fig.width=10, fig.height=6, echo=TRUE}
+library(metan)
+## select variable
+corrd <- kallutaca %>%
+  select(Mean_temp, High_t, Low_t, Rain, AVG_Wind_Speed, High_w)
+corrd
+
+## Correlation plot
+coef2 <- corr_coef(corrd)
+plot(coef2)
+```
 
 
 
