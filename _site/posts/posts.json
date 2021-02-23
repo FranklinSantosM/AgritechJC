@@ -1,5 +1,28 @@
 [
   {
+    "path": "posts/2021-02-19-blackoat/",
+    "title": "Ontogénesis y desempeño agronómico de Avena negra",
+    "description": "El viernes 19 de febrero de 2021 a horas 16:00, se discutió el artículo original: Black Oat (*Avena strigosa* Schreb.) Ontogenesis and Agronomic Performance in Organic Cropping System and Pannonian Environments.",
+    "author": [
+      {
+        "name": "Cesar R. Pillco",
+        "url": "https://franklinsantos.com"
+      }
+    ],
+    "date": "2021-02-19",
+    "categories": [
+      "Oat",
+      "Black Oats",
+      "Agro-climatic"
+    ],
+    "contents": "\nAbstract\nEste estudio examinó la influencia de las condiciones agroecológicas en la ontogénesis y los rasgos de rendimiento productivo de la avena negra (Avena strigosa Schreb.). Comprender las propiedades agronómicas y fenológicas relacionadas con las propiedades productivas de la avena negra puede permitir una introducción más exitosa en nuevas áreas de cultivo de avena. Se realizaron microexperimentos de campo durante los tres años consecutivos (2017-2019) en las dos localidades de South Banat, en Serbia, que diferían en el tipo de suelo: carbonato chernozem y humogley, respectivamente. Los resultados mostraron que todos los rasgos investigados de la avena en el tipo de suelo chernozem fueron más altos en comparación con los rasgos medidos obtenidos del tipo de suelo humogley. El valor promedio de los rendimientos de la biomasa aérea, el rendimiento y el contenido de proteínas fueron significativamente mayores en relación con el humogley, en un 13%, 17% y 11%, respectivamente, para las tres temporadas. Observados por años, todos los parámetros de productividad difirieron significativamente, lo que confirmó que la productividad de las plantas cultivadas estaba fuertemente influenciada por diferentes condiciones agroecológicas, edafoclimáticas en ambientes panónicos. La biomasa aérea y el rendimiento de grano obtenido del tipo de suelo humogley indican que esta especie puede cultivarse con éxito y utilizarse en la producción como cobertura o cultivo forrajero incluso en condiciones de suelo menos favorables.\nConclusión del Journal Club\nLas condiciones agroedafoclimaticas influen en el comportamiento fenotípico y productividad del cultivo.\nEl rendimiento de biomasa aérea, el rendimiento de grano y el contenido de proteína de grano fueron más altos en el tipo de suelo chernozem.\nEsta especie puede ser cultivado con éxito como cultivo de cobertura o forraje incluso en condiciones de suelo menos favorables.\nCita correcta del artículo Ugrenović et al. (2021)\n\n\n\nUgrenović, Vladan, Vera Popović, Milan Ugrinović, Vladimir Filipović, Ksenija Mačkić, Nataša Ljubičić, Slobodan Popović, and Željko Lakić. 2021. “Black Oat (Avena Strigosa Schreb.) Ontogenesis and Agronomic Performance in Organic Cropping System and Pannonian Environments.” Agriculture 11 (1). https://doi.org/10.3390/agriculture11010055.\n\n\n\n\n",
+    "preview": "posts/2021-02-19-blackoat/agri.png",
+    "last_modified": "2021-02-23T16:59:51-04:00",
+    "input_file": "blackoat.utf8.md",
+    "preview_width": 3252,
+    "preview_height": 1688
+  },
+  {
     "path": "posts/2021-02-11-climate/",
     "title": "Análisis de datos climáticos",
     "description": "Breve análisis de datos climáticos de la Estación Experimental de Kallutaca, durante la campaña agrícola 2019-2020.",
