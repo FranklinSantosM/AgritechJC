@@ -1,5 +1,26 @@
 [
   {
+    "path": "posts/2021-03-05-sewheat/",
+    "title": "Absorción, acumulación y distribución subcelular de selenio en trigo",
+    "description": "El viernes 05 de marzo de 2021 a horas 16:00, se discutió el artículo original: Insights into uptake, accumulation, and subcellular distribution of selenium among eight wheat (*Triticum aestivum* L.) cultivars supplied with selenite and selenate.",
+    "author": [
+      {
+        "name": "Noemy D. Ticona",
+        "url": "https://franklinsantos.com"
+      }
+    ],
+    "date": "2021-03-05",
+    "categories": [
+      "Wheat",
+      "Selenium",
+      "Subcellular"
+    ],
+    "contents": "\nAbstract\nSelenium (Se)-enriched wheat can be improved by altering Se sources and selecting wheat cultivars. Such improvement can affect subcellular distribution and speciation of Se in wheat. Thus, a pot experiment was conducted to investigate Se uptake and distribution when Se was applied as selenite or selenate at low and high rates (1 and 10 mg kg−1, respectively). Moreover, Se’s impact on the grain and biomass yield of eight wheat cultivars was also investigated. The subcellular distribution and speciation of Se were also explored to elucidate Se metabolism and micro-distribution pattern in wheat. Results showed that biomass and grain yield were decreased with the application of both selenite and selenate in almost all the cultivars, regardless of the Se rate. Application high Se rate resulted in a significant (p < 0.05) decrease in grain yield and biomass compared with low rate of Se. Compared with the low rate of selenite application, the grain and the biomass yield of ZM-9023 significantly (p < 0.05) increased by about 15% for low rate of selenate application. In addition, both selenite and selenate treatment increased the uptake of Se in each part of wheat, compared with the control. Selenium was mostly accumulated in the grain and root of wheat under selenite treatment, while more Se accumulation was found in leaves and straw for selenate application. Further investigation on the subcellular distribution of Se showed that the proportion of Se in soluble fraction was significantly (p < 0.05) higher in wheat leaves than that in organelle fraction and cell walls (46%–66%). Meanwhile, Se6+ was the main species found in soluble fraction, whereas SeMet and MeSeCys were the species predominantly stored in organelle fraction. In conclusion, wheat cultivar ZM-9023 is the most Se-rich potential cultivar, and the isolation of Se in the soluble fraction plays an important role in Se tolerance and accumulation.\nJournal conclusion\nLa investigación reporta que el rendimiento de grano de trigo disminuye con la la aplicación de selenito y selenato.\nCon la aplicación de selenito el Selenio se acumuló principalmente en el grano y las raíces del trigo. Sin embargo, la investigación encontró más acumulación de Selenio en las hojas y la paja con el tratamiento con selenato.\nCita correcta del artículo Wang et al. (2021)\n\n\n\nWang, Min, Fayaz Ali, Mingxing Qi, Qin Peng, Mengke Wang, Gary S. Bañuelos, Shuyin Miao, Zhe Li, Quang Toan Dinh, and Dongli Liang. 2021. “Insights into Uptake, Accumulation, and Subcellular Distribution of Selenium Among Eight Wheat (Triticum Aestivum l.) Cultivars Supplied with Selenite and Selenate.” Ecotoxicology and Environmental Safety 207: 111544. https://doi.org/10.1016/j.ecoenv.2020.111544.\n\n\n\n\n",
+    "preview": "posts/2021-03-05-sewheat/wheat.jpg",
+    "last_modified": "2021-03-05T18:58:31-04:00",
+    "input_file": "sewheat.utf8.md"
+  },
+  {
     "path": "posts/2021-02-19-blackoat/",
     "title": "Ontogénesis y desempeño agronómico de Avena negra",
     "description": "El viernes 19 de febrero de 2021 a horas 16:00, se discutió el artículo original: Black Oat (*Avena strigosa* Schreb.) Ontogenesis and Agronomic Performance in Organic Cropping System and Pannonian Environments.",
