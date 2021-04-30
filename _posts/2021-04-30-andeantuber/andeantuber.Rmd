@@ -1,0 +1,33 @@
+---
+title: "Tubérculos andinos cultivados en Ecuador"
+description: |
+  El viernes 26 de marzo de 2021 a horas 16:00, se discutió el artículo original: Andean tubers grown in Ecuador: New sources of functional ingredients.
+categories:
+  - Smallanthus sonchifolius
+  - Tropaeolum tuberosum
+  - Ullucus tuberosus
+  
+author:
+  - name: Alexander Mendoza
+    url: https://franklinsantos.com
+    affiliation: Universidad Pública de El Alto
+date: 03-26-2021
+preview: picture.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+bibliography: refs.bib
+---
+
+### Abstract
+Five unexplored Andean tubers grown in Ecuador were characterized. Yacon (*Smallanthus sonchifolius*, var. INIAP-ECU-1247) showed a high level of prebiotic inulin-type fructooligosaccharides with a degree of poly- merisation from 2 to 6 and the highest content of phenolic compounds. Mashua (*Tropaeolum tuberosum*, var. INIAP-ECU-Izaño) showed high antioxidant capacity, attributed to its high carotenoid and vitamin C content. Melloco (*Ullucus tuberosus*, var. INIAP-ECU-amarillo-rosa) had the highest content of fibre and crude protein, while purple sweet potato (*Ipomea batatas*, var. INIAP-ECU-morado) and white carrot (*Arracacia xanthorrhiza*, var. INIAP-ECU-blanca) showed a high yield of starch rich in amylose, with possible better functional properties than potato starch. Fructose, glucose and sucrose were found in all samples. These ancestral crops can be useful as non-traditional sources of bioactive compounds with applications in the development of biomaterials, pharmacological products or new functional ingredients. 
+
+### Journal conclusion
+
+- El yacón (*Smallanthus sonchifolius*), mashua o isaño (*Tropaeolum tuberosum*), melloco u oca (*Ullucus tuberosus*) y arracacha (*Arracacia xanthorrhiza*)  tienen altos contenidos de carbohidratos, compuestos fenólicos, antocianinas, carotenoides, almidón y minerales. 
+- Bolivia es rica de esta diversidad de tubérculos menores o andinos. Por tanto, el reto es continuar con las investigaciones pertinentes para potenciar el uso de estos cultivos.
+
+Cita del artículo @PACHECO
+
+
+
