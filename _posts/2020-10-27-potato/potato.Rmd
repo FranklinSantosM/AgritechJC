@@ -9,6 +9,7 @@ categories:
 author:
   - name: Expositor Alex Mendoza
     url: https://example.com/norajones
+    affiliation: Universidad Pública de El Alto
 date: 10-30-2020
 preview: papa.jpg
 output:
@@ -16,10 +17,17 @@ output:
     self_contained: false
 bibliography: refs.bib
 ---
+<style>
+body {
+text-align: justify}
+</style>
+
 ## Resumen
+
 El objetivo de este trabajo fue comparar cuatro variedades de papa (*Subsp. andigenum* Hawkes, *S. curtilobum* Juz et Buk, *S. juzepczukii* Buk, *S. stenotomum* Just et Buk) en términos de fenología y rendimiento en condiciones agroecológicas de la región altiplánica del Perú. Para ello, se evaluaron parámetros fenológicos (descripción del tubérculo, planta, hoja, flor, bayas, intensidad de floración y período vegetativo) y productivos (rendimiento y número de tubérculos). Siendo la muestra 40 plantas seleccionadas al azar, las cuales fueron sembradas en suelo franco arenoso, bajo un manejo agronómico tradicional y riego por gravedad. Se determinó que la Subsp. andigenum Hawkes tiene la mayor producción (número y peso) en relación con las variedades estudiadas. El período vegetativo tuvo una duración entre los 169 a 183 días. Se concluye que las variedades estudiadas, son especies de ciclo fenológico semitardío.
 
 ## Discusión sobre el artículo
+
 En este Journal Club se hizo algunas observaciones al artículo. 
 - En la sección de **Materiales y Métodos** no cuenta con secuencia lógica desde la implementación hasta la conclusión de la investigación. 
 - Los **resultados** del artículo no concuerdan con el objetivo de la investigación. Asimismo, no tiene un soporte estadístico inferencial. La falta de visualización en el artículo, dificulta la interpretación de los resultados.

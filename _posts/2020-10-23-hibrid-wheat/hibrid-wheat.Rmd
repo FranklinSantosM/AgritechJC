@@ -1,5 +1,5 @@
 ---
-title: "JC: Criterios de selección para híbridos de trigo harinero"
+title: "Criterios de selección para híbridos de trigo harinero"
 description: |
   Título del artículo: "Selection criteria for high-yielding and early-flowering bread wheat hybrids under heat stress"
 categories:
@@ -9,6 +9,7 @@ categories:
 author:
   - name: Expositor Noemy Dorcas 
     url: https://example.com/norajones
+    affiliation: Universidad Pública de El Alto
 date: 10-23-2020
 output:
   distill::distill_article:
@@ -20,6 +21,10 @@ bibliography: refs.bib
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+<style>
+body {
+text-align: justify}
+</style>
 
 ## Introducción
 El trigo (*Triticum aestivum* L.), uno de los cultivos alimentarios más importantes del mundo, es una de las fuentes de proteínas más esenciales para los seres humanos. Representa el 17% de la superficie mundial de cultivos, alimenta aproximadamente al 40% de la población mundial y proporciona el 20% de las calorías totales de la dieta [@1].
