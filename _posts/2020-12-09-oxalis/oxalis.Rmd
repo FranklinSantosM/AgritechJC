@@ -18,6 +18,11 @@ output:
 bibliography: refs.bib
 ---
 
+<style>
+body {
+text-align: justify}
+</style>
+
 ## Resumen del artículo
 
 Dentro de los tubérculos andinos de mayor importancia, después de la papa, se encuentra la ibia (*Oxalis tuberosa* Mol.) ya que constituye un alimento básico para las comunidades campesinas. Boyacá es uno de los departamentos de Colombia, en donde todavía existe la tradición de cultivar y consumir tubérculos como los cubios, ullucus y rubas o ibias, sin embargo están amenazados por la erosión genética. No existen estudios sobre estos recursos fitogenéticos en Boyacá, por lo cual el objetivo de esta investigación fue colectar y caracterizar morfológica y molecularmente materiales de ibias en este departamento. El análisis morfológico mostró que las características más discriminantes fueron: color de los tallos aéreos, pigmentación de las axilas, color del follaje, color de la flor, color del pedúnculo y pedicelo, color predominante de la superficie del tubérculo, color secundario de la superficie del tubérculo, color predominante y secundario de la pulpa, distribución del color secundario de la pulpa y forma de los tubérculos. El análisis de similitud diferenció a los materiales en dos grandes grupos, de acuerdo principalmente a características morfológicas como el color y hábito de floración. El valor de heterocigosidad promedio para la población total fue de 0.39 el cual se considera alto al compararse con otros estudios de diversidad genética en ibias. El análisis de varianza molecular y el Fst (coeficiente de diferenciación genética) muestran que existe una alta variabilidad genética entre los materiales de ibias evaluados la cual debe ser conservada y aprovechada dentro de futuros programas de mejoramiento.

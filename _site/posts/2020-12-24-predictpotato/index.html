@@ -20,19 +20,18 @@
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css" data-origin="pandoc">
-code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
-code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode { white-space: pre; position: relative; }
 div.sourceCode { margin: 1em 0; }
 pre.sourceCode { margin: 0; }
 @media screen {
 div.sourceCode { overflow: auto; }
 }
 @media print {
-code.sourceCode { white-space: pre-wrap; }
-code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
 }
 pre.numberSource code
   { counter-reset: source-line 0; }
@@ -52,7 +51,7 @@ pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-le
 div.sourceCode
   {   }
 @media screen {
-code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
@@ -2061,7 +2060,12 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 <!--/radix_placeholder_distill-->
+  <script src="../../site_libs/header-attrs-2.7/header-attrs.js"></script>
   <script src="../../site_libs/jquery-1.11.3/jquery.min.js"></script>
+  <script src="../../site_libs/popper-2.6.0/popper.min.js"></script>
+  <link href="../../site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
+  <link href="../../site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
+  <script src="../../site_libs/tippy-6.2.7/tippy.umd.min.js"></script>
   <script src="../../site_libs/anchor-4.2.2/anchor.min.js"></script>
   <script src="../../site_libs/bowser-1.9.3/bowser.min.js"></script>
   <script src="../../site_libs/webcomponents-2.0.0/webcomponents.js"></script>
@@ -2129,7 +2133,7 @@ gtag('config', 'G-PKNT30BN78');
   <a href="../../index.html#category:Sensors" class="dt-tag">Sensors</a>
 </div>
 <!--/radix_placeholder_categories-->
-<p><p>El viernes 25 de diciembre de 2020 a horas 16:00, se discutió el artículo original: “Prediction of End-Of-Season Tuber Yield and Tuber Set in Potatoes Using In-Season UAV-Based Hyperspectral Imagery and Machine Learning”.</p></p>
+<p><p>El viernes 25 de diciembre de 2020 a horas 16:00, se discutió el artículo original: “Prediction of End-Of-Season Tuber Yield and Tuber Set in Potatoes Using In-Season UAV-Based Hyperspectral Imagery and Machine Learning.”</p></p>
 </div>
 
 <div class="d-byline">
@@ -2139,6 +2143,10 @@ gtag('config', 'G-PKNT30BN78');
 </div>
 
 <div class="d-article">
+<style>
+body {
+text-align: justify}
+</style>
 <h2 id="resumen-del-artículo">Resumen del artículo</h2>
 <p>Potato is the largest non-cereal food crop in the world. Timely estimation of end-of-season tuber production using in-season information can inform sustainable agricultural management decisions that increase productivity while reducing impacts on the environment. Recently, unmanned aerial vehicles (UAVs) have become increasingly popular in precision agriculture due to their flexibility in data acquisition and improved spatial and spectral resolutions. In addition, compared with natural color and multispectral imagery, hyperspectral data can provide higher spectral fidelity which is important for modelling crop traits. In this study, we conducted end-of-season potato tuber yield and tuber set predictions using in-season UAV-based hyperspectral images and machine learning. Specifically, six mainstream machine learning models, i.e., ordinary least square (OLS), ridge regression, partial least square regression (PLSR), support vector regression (SVR), random forest (RF), and adaptive boosting (AdaBoost), were developed and compared across potato research plots with different irrigation rates at the University of Wisconsin Hancock Agricultural Research Station. Our results showed that the tuber set could be better predicted than the tuber yield, and using the multi-temporal hyperspectral data improved the model performance. Ridge achieved the best performance for predicting tuber yield (R<sup>2</sup> = 0.63) while Ridge and PLSR had similar performance for predicting tuber set (R<sup>2</sup> = 0.69). Our study demonstrated that hyperspectral imagery and machine learning have good potential to help potato growers efficiently manage their irrigation practices.</p>
 <h2 id="conclusiones-del-journal-club">Conclusiones del Journal Club</h2>
@@ -2149,11 +2157,11 @@ gtag('config', 'G-PKNT30BN78');
 <li>Los coeficientes de determinación son relativamente bajos para determinar los modelos de predicción.</li>
 <li>La investigación es un gran aporte. Por tanto, se recomienda replicar esta investigación en condiciones del Altiplano Boliviano.</li>
 </ul>
-<p>Cita correcta del artículo <span class="citation" data-cites="sun2020prediction">Sun et al. (<a href="#ref-sun2020prediction" role="doc-biblioref">2020</a>)</span></p>
+<p>Cita correcta del artículo <span class="citation" data-cites="sun2020prediction"><a href="#ref-sun2020prediction" role="doc-biblioref">Sun et al.</a> (<a href="#ref-sun2020prediction" role="doc-biblioref">2020</a>)</span></p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
-<div id="refs" class="references" role="doc-bibliography">
-<div id="ref-sun2020prediction">
-<p>Sun, Chen, Luwei Feng, Zhou Zhang, Yuchi Ma, Trevor Crosby, Mack Naber, and Yi Wang. 2020. “Prediction of End-of-Season Tuber Yield and Tuber Set in Potatoes Using in-Season Uav-Based Hyperspectral Imagery and Machine Learning.” <em>Sensors</em> 20 (18): 5293. <a href="https://doi.org/10.3390/s20185293">https://doi.org/10.3390/s20185293</a>.</p>
+<div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
+<div id="ref-sun2020prediction" class="csl-entry" role="doc-biblioentry">
+Sun, Chen, Luwei Feng, Zhou Zhang, Yuchi Ma, Trevor Crosby, Mack Naber, and Yi Wang. 2020. <span>“Prediction of End-of-Season Tuber Yield and Tuber Set in Potatoes Using in-Season Uav-Based Hyperspectral Imagery and Machine Learning.”</span> <em>Sensors</em> 20 (18): 5293. <a href="https://doi.org/10.3390/s20185293">https://doi.org/10.3390/s20185293</a>.
 </div>
 </div>
 <!--radix_placeholder_article_footer-->

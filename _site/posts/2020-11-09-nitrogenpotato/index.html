@@ -20,19 +20,18 @@
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css" data-origin="pandoc">
-code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
-code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode { white-space: pre; position: relative; }
 div.sourceCode { margin: 1em 0; }
 pre.sourceCode { margin: 0; }
 @media screen {
 div.sourceCode { overflow: auto; }
 }
 @media print {
-code.sourceCode { white-space: pre-wrap; }
-code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
 }
 pre.numberSource code
   { counter-reset: source-line 0; }
@@ -52,7 +51,7 @@ pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-le
 div.sourceCode
   {   }
 @media screen {
-code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
@@ -2061,7 +2060,12 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 <!--/radix_placeholder_distill-->
+  <script src="../../site_libs/header-attrs-2.7/header-attrs.js"></script>
   <script src="../../site_libs/jquery-1.11.3/jquery.min.js"></script>
+  <script src="../../site_libs/popper-2.6.0/popper.min.js"></script>
+  <link href="../../site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
+  <link href="../../site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
+  <script src="../../site_libs/tippy-6.2.7/tippy.umd.min.js"></script>
   <script src="../../site_libs/anchor-4.2.2/anchor.min.js"></script>
   <script src="../../site_libs/bowser-1.9.3/bowser.min.js"></script>
   <script src="../../site_libs/webcomponents-2.0.0/webcomponents.js"></script>
@@ -2128,7 +2132,7 @@ gtag('config', 'G-PKNT30BN78');
   <a href="../../index.html#category:Crop_Yield" class="dt-tag">Crop Yield</a>
 </div>
 <!--/radix_placeholder_categories-->
-<p><p>El viernes 13 de noviembre de 2020 a horas 16:00, se presentó el artículo original: “Effect of nitrogen and phosphorus fertilization sources on the potato crop yield (<em>Solanum tuberosum</em> L.)”.</p></p>
+<p><p>El viernes 13 de noviembre de 2020 a horas 16:00, se presentó el artículo original: “Effect of nitrogen and phosphorus fertilization sources on the potato crop yield (<em>Solanum tuberosum</em> L.).”</p></p>
 </div>
 
 <div class="d-byline">
@@ -2138,6 +2142,10 @@ gtag('config', 'G-PKNT30BN78');
 </div>
 
 <div class="d-article">
+<style>
+body {
+text-align: justify}
+</style>
 <h2 id="resumen">Resumen</h2>
 <p>La papa (<em>Solanum tuberosum</em> L.) es un cultivo exigente con respecto a las prácticas de fertilización, y su productividad también depende de la variedad utilizada, las condiciones ambientales, la fertilidad del suelo y el manejo del cultivo. El objetivo de este estudio fue investigar el efecto de interacción de las fuentes de fertilización nitrogenadas y fosforadas en el rendimiento del cultivo de papa. Se estableció un diseño factorial 3×3 de bloques al azar con, nueve tratamientos y cuatro repeticiones. La variedad evaluada fue INIA-303 Canchan con tres fuentes de fertilización nitrogenada: nitrato de amonio (NA), sulfato de amonio (SA) y urea, y tres fuentes de fósforo: fosfato monoamónico (FMA), fosfato diamónico (FDM) y superfosfato triple (SFT). Las variables estudiadas fueron rendimiento total, rendimiento comercial, número de tubérculos por planta, peso del tubérculo por planta. La variedad INIA-303 Canchan, mostró respuestas positivas a las combinaciones de fuentes de fertilización de nitrógeno y fósforo bajo las condiciones del suelo y el clima donde se realizó la investigación. En la combinación NA+FDM se encontró el mayor rendimiento total, rendimiento comercial, número y peso de tubérculos por planta (P&lt;0.01). Las mezclas recomendadas para la fertilización de la variedad de papa Canchan INIA-303, para lograr rendimientos entre 32,45 t ha<sup>-1</sup> a 33,98 t ha<sup>-1</sup>, bajo las condiciones del área de estudio son NA+FDM, SA+FMA y NA+FMA.</p>
 <h2 id="conclusión-del-journal-club">Conclusión del Journal Club</h2>
@@ -2145,11 +2153,11 @@ gtag('config', 'G-PKNT30BN78');
 <p>La metodología en lo que refiere a los tratamientos de la investigación, no menciona muchos detalles para que la investigación sea reproducible.</p>
 <p>Los resultados de la investigación no responden de manera clara a los objetivos de la investigación.</p>
 <p>Los autores en su conclusión resaltan la variedad; sin embargo, deberían enfatizar los resultados mas sobresalientes en función a los objetivos planteados.</p>
-<p>Cita del artículo<span class="citation" data-cites="refmanager">(Rember Pinedo-Taco <a href="#ref-refmanager" role="doc-biblioref">2020</a>)</span></p>
+<p>Cita del artículo<span class="citation" data-cites="refmanager">(<a href="#ref-refmanager" role="doc-biblioref">Rember Pinedo-Taco 2020</a>)</span></p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
-<div id="refs" class="references" role="doc-bibliography">
-<div id="ref-refmanager">
-<p>Rember Pinedo-Taco, Gilberto Rodríguez-Soto, Tulio Olivas-Alvarado. 2020. “Effect of Nitrogen and Phosphorus Fertilization Sources on the Potato Crop Yield (Solanum Tuberosum L.).” <em>Revista Facultad Nacional de Agronomía Medellín</em>. <a href="https://doi.org/10.15446/rfnam.v73n3.82624">https://doi.org/10.15446/rfnam.v73n3.82624</a>.</p>
+<div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
+<div id="ref-refmanager" class="csl-entry" role="doc-biblioentry">
+Rember Pinedo-Taco, Gilberto Rodríguez-Soto, Tulio Olivas-Alvarado. 2020. <span>“Effect of Nitrogen and Phosphorus Fertilization Sources on the Potato Crop Yield (Solanum Tuberosum l.).”</span> <em>Revista Facultad Nacional de Agronomía Medellín</em>. <a href="https://doi.org/10.15446/rfnam.v73n3.82624">https://doi.org/10.15446/rfnam.v73n3.82624</a>.
 </div>
 </div>
 <!--radix_placeholder_article_footer-->

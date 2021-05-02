@@ -17,6 +17,11 @@ output:
     self_contained: false
 bibliography: refs.bib
 ---
+<style>
+body {
+text-align: justify}
+</style>
+
 ## Resumen del artículo
 La selección de genotipos de trigo de acuerdo con su tolerancia a la sequía es esencial para el cultivo fuera de temporada. El objetivo de este trabajo fue caracterizar genotipos de trigo a través de rendimiento y componentes, características morfológicas bajo estrés hídrico y eficiencia en el uso del agua de riego en la región del Cerrado en Brasil. Los genotipos se sembraron durante los inviernos de 2016 y 2017 ya que no hay precipitaciones durante esta temporada y se pueden medir los niveles de agua. Luego fueron sometidos a cuatro regímenes de agua: WR1, WR2, WR3 y WR4, que representan el 100%, 83%, 50% y 30% de reemplazo de evapotranspiración. Se evaluaron las siguientes variables: longitud del pedúnculo (PL), número de mazorcas m^−2^ (NE m^−2^), peso hectolitro (HW), peso de mil granos (TGW), índice de resistencia a la sequía (DRI), eficiencia en el uso del agua de riego ( IWUE) y ceder. La mayoría de las variables mostraron correlación con el rendimiento y pueden ser una herramienta útil para los programas de mejoramiento. PL y HW se correlacionaron mejor con el rendimiento. BRS 264 (biotipo de riego) fue productivo en los tratamientos que recibieron el mayor número de tratamientos de riego. Dado que WR1 registró el nivel de agua más alto, no se esperaba que el biotipo de secano (BR18) mostrara un rendimiento mayor que un biotipo de riego (BRS254). BRS404 (biotipo de secano) fue el más productivo bajo tratamiento de estrés moderado (WR3). Aliança (biotipo de secano) mostró un mayor rendimiento bajo estrés severo. Los biotipos de secano presentaron un DRI mayor que los de regadío. Estos genotipos se pueden utilizar como referencia en programas de mejoramiento bajo cada régimen hídrico en el que su desempeño fue sobresaliente. Ninguna de las variables estudiadas contribuyó a la selección de los genotipos de trigo más eficientes en la IWUE.
 

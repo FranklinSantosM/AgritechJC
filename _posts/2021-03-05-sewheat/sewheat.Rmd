@@ -18,6 +18,11 @@ output:
 bibliography: refs.bib
 ---
 
+<style>
+body {
+text-align: justify}
+</style>
+
 ### Abstract
 Selenium (Se)-enriched wheat can be improved by altering Se sources and selecting wheat cultivars. Such improvement can affect subcellular distribution and speciation of Se in wheat. Thus, a pot experiment was conducted to investigate Se uptake and distribution when Se was applied as selenite or selenate at low and high rates (1 and 10 mg kg^−1^, respectively). Moreover, Se’s impact on the grain and biomass yield of eight wheat cultivars was also investigated. The subcellular distribution and speciation of Se were also explored to elucidate Se metabolism and micro-distribution pattern in wheat. Results showed that biomass and grain yield were decreased with the application of both selenite and selenate in almost all the cultivars, regardless of the Se rate. Application high Se rate resulted in a significant (*p < 0.05*) decrease in grain yield and biomass compared with low rate of Se. Compared with the low rate of selenite application, the grain and the biomass yield of ZM-9023 significantly (*p < 0.05*) increased by about 15% for low rate of selenate application. In addition, both selenite and selenate treatment increased the uptake of Se in each part of wheat, compared with the control. Selenium was mostly accumulated in the grain and root of wheat under selenite treatment, while more Se accumulation was found in leaves and straw for selenate application. Further investigation on the subcellular distribution of Se showed that the proportion of Se in soluble fraction was significantly (*p < 0.05*) higher in wheat leaves than that in organelle fraction and cell walls (46%–66%). Meanwhile, Se6+ was the main species found in soluble fraction, whereas SeMet and MeSeCys were the species predominantly stored in organelle fraction. In conclusion, wheat cultivar ZM-9023 is the most Se-rich potential cultivar, and the isolation of Se in the soluble fraction plays an important role in Se tolerance and accumulation.
 

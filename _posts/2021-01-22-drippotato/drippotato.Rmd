@@ -17,6 +17,12 @@ output:
     self_contained: false
 bibliography: refs.bib
 ---
+
+<style>
+body {
+text-align: justify}
+</style>
+
 ## Abstract
 The purpose of this research was to determine the water needs and results of drip irrigation of mid-early potato cultivar Courage. Studies were carried out in central Poland in 2011–2013 on very light soil. The experiment was designed as two-factorial trials with four replications. The first factor was drip irrigation: O = control (without irrigation), D = drip irrigation. The second factor was the nitrogen fertilization method: P = broadcasting, F = drip fertigation. Nitrogen fertilization was 120 kg N ha^−1^ on each plot. Crop coefficients for irrigation period were 0.4 in June and 0.6 in July and August. According to calculations based on the crop coefficients and correction coefficients acc. HargreavesDA model the water requirement of potato for June–August was 202 mm. Drip irrigation increased the marketable tuber yield by 55%. Irrigation water use efficiency increased from 257 kg ha^−1^ mm^−1^ in D + P to 264 kg ha^−1^ mm^−1^ in D + F. The productivity of 1 kg of nitrogen fertilization was 189 kg ha^−1^ in control non-irrigated plots and 321 kg ha^−1^ in drip-irrigated plots, and it rose up to 337 kg ha^−1^ when fertilization was applied by fertigation.
 

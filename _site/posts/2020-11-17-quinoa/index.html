@@ -20,19 +20,18 @@
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css" data-origin="pandoc">
-code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
-code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode { white-space: pre; position: relative; }
 div.sourceCode { margin: 1em 0; }
 pre.sourceCode { margin: 0; }
 @media screen {
 div.sourceCode { overflow: auto; }
 }
 @media print {
-code.sourceCode { white-space: pre-wrap; }
-code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
 }
 pre.numberSource code
   { counter-reset: source-line 0; }
@@ -52,7 +51,7 @@ pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-le
 div.sourceCode
   {   }
 @media screen {
-code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
@@ -2057,7 +2056,12 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 <!--/radix_placeholder_distill-->
+  <script src="../../site_libs/header-attrs-2.7/header-attrs.js"></script>
   <script src="../../site_libs/jquery-1.11.3/jquery.min.js"></script>
+  <script src="../../site_libs/popper-2.6.0/popper.min.js"></script>
+  <link href="../../site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
+  <link href="../../site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
+  <script src="../../site_libs/tippy-6.2.7/tippy.umd.min.js"></script>
   <script src="../../site_libs/anchor-4.2.2/anchor.min.js"></script>
   <script src="../../site_libs/bowser-1.9.3/bowser.min.js"></script>
   <script src="../../site_libs/webcomponents-2.0.0/webcomponents.js"></script>
@@ -2134,6 +2138,10 @@ gtag('config', 'G-PKNT30BN78');
 </div>
 
 <div class="d-article">
+<style>
+body {
+text-align: justify}
+</style>
 <h3 id="resumen">Resumen</h3>
 <p>Esta investigación se realizó en el municipio de Bolívar - Cauca, vereda El Tambo, Corregimiento Los Milagros, localizado a 2589 m.s.n.m, donde se evaluó el comportamiento del ecotipo Blanca del Cauca bajo 3 niveles de fertilización, con 3 densidades de siembra y 3 métodos de siembra bajo un diseño de parcelas subdivididas con 3 repeticiones y el ecotipo PROCAUCA 016 con 2 densidades de siembra y 2 niveles de fertilización en un diseño completamente al azar con 3 repeticiones. Las variables de respuesta fueron las fases fenológicas y los componentes de rendimiento. Para la preparación del terreno se utilizó labranza mínima, la parcela útil estuvo constituida por los 3 surcos centrales tomando 4 m efectivos, se dejaron 50 cm de cabecera a cada lado y los 2 surcos laterales como bordes, los tratamientos se deter- minaron can base en análisis de suelo y la experiencia de los investigadores en el manejo del cultivo. El ciclo productivo estuvo entre 116,2 y 168,6 días evidenciando la precocidad de PROCAUCA 016, en cuanto a rendimiento para Blanca del Cauca, los mejores resultados se obtuvieron con trasplante de plantas provenientes de siembra en bandeja comercial, densidad chorrillo con fertilización testigo y con PROCAUCA 016 los mejores resultados se obtuvieron con siembra a chorrillo y fertilización ideal.</p>
 <h3 id="conclusion-del-journal-club">Conclusion del Journal Club</h3>
@@ -2146,11 +2154,11 @@ gtag('config', 'G-PKNT30BN78');
 <li>Los autores no presentan una sección de discusión</li>
 <li>Las conclusiones son muy ambiguas, generalmente esta sección debería ser más concreta y clara en función a los resultados más preponderantes.</li>
 </ul>
-<p>Cita del artículo<span class="citation" data-cites="refmanager">(Montes-Rojas C. and F. <a href="#ref-refmanager" role="doc-biblioref">2019</a>)</span></p>
+<p>Cita del artículo<span class="citation" data-cites="refmanager">(<a href="#ref-refmanager" role="doc-biblioref">Montes-Rojas C. and F. 2019</a>)</span></p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
-<div id="refs" class="references" role="doc-bibliography">
-<div id="ref-refmanager">
-<p>Montes-Rojas C., Burbano-Catuche G. A., and Muñoz-Certuche E. F. 2019. “Evaluación Del Rendimiento de Quinua Bajo Diferentes Densidades, Fertilización Y Métodos de Siembra En Cauca.” <em>Revista Biotecnología En El Sector Agropecuario Y Agroindustrial</em>. <a href="https://doi.org/10.18684/bsaa.v18n1.1410">https://doi.org/10.18684/bsaa.v18n1.1410</a>.</p>
+<div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
+<div id="ref-refmanager" class="csl-entry" role="doc-biblioentry">
+Montes-Rojas C., Burbano-Catuche G. A., and Muñoz-Certuche E. F. 2019. <span>“Evaluación Del Rendimiento de Quinua Bajo Diferentes Densidades, Fertilización y Métodos de Siembra En Cauca.”</span> <em>Revista Biotecnología En El Sector Agropecuario y Agroindustrial</em>. <a href="https://doi.org/10.18684/bsaa.v18n1.1410">https://doi.org/10.18684/bsaa.v18n1.1410</a>.
 </div>
 </div>
 <!--radix_placeholder_article_footer-->

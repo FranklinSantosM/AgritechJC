@@ -17,6 +17,10 @@ output:
     self_contained: false
 bibliography: refs.bib
 ---
+<style>
+body {
+text-align: justify}
+</style>
 
 ### Abstract
 

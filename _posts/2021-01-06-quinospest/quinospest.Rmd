@@ -17,6 +17,10 @@ output:
     self_contained: false
 bibliography: refs.bib
 ---
+<style>
+body {
+text-align: justify}
+</style>
 
 ## Abstract
 Over the last decade, the sown area of quinoa (*Chenopodium quinoa* Willd.) has been increasingly expanding in Peru, and new production fields have emerged, stretching from the Andes to coastal areas. The fields at low altitudes have the potential to produce higher yields than those in the highlands. This study investigated the occurrence of insect pests and the natural enemies of quinoa in a traditional production zone, San Lorenzo (in the Andes), and in two new zones at lower altitudes, La Molina (on the coast) and Majes (in the “Maritime Yunga” ecoregion), by plant sampling and pitfall trapping. Our data indicated that the pest pressure in quinoa was higher at lower elevations than in the highlands. The major insect pest infesting quinoa at high densities in San Lorenzo was *Eurysacca melanocampta*; in La Molina, the major pests were *E. melanocampta*, *Macrosiphum euphorbiae* and *Liriomyza huidobrensis*; and in Majes, *Frankliniella occidentalis* was the most abundant pest. The natural enemy complex played an important role in controlling *M. euphorbiae* and *L. huidobrensis* by preventing pest resurgence. The findings of this study may assist quinoa producers (from the Andes and from regions at lower altitudes) in establishing better farming practices in the framework of integrated pest management.

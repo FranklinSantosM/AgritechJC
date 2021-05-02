@@ -8,9 +8,9 @@ categories:
   - Agri-Tech
 author:
   - name: Franklin Santos
-    url: https://example.com/norajones
-    affiliation: INIAF
-    affiliation_url: https://example.com/spacelysprokets
+    url: https://franklinsantos.com
+    affiliation: Universidad Pública de El Alto
+    affiliation_url: https://upea.edu
 base_url: https://agritechjc.netlify.app
 date: 10-01-2020
 preview: IMG.jpg
@@ -26,13 +26,10 @@ output:
     creator: "@FranklinSantosM"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating blogs with Distill at:
-# https://rstudio.github.io/distill/blog.html
-
-```
+<style>
+body {
+text-align: justify}
+</style>
 
 ## Antecedentes
 Los *clubes de revistas científicas o Journal Club* presentan oportunidades para que los investigadores se reúnan y discutan publicaciones recientes en revistas de alto impacto. Estas reuniones ayudan a los investigadores a *mantenerse al día con los hallazgos actuales*, ejercitar sus habilidades de *pensamiento crítico* y mejorar habilidades de presentación y debate.

@@ -20,19 +20,18 @@
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css" data-origin="pandoc">
-code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
-code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode { white-space: pre; position: relative; }
 div.sourceCode { margin: 1em 0; }
 pre.sourceCode { margin: 0; }
 @media screen {
 div.sourceCode { overflow: auto; }
 }
 @media print {
-code.sourceCode { white-space: pre-wrap; }
-code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
 }
 pre.numberSource code
   { counter-reset: source-line 0; }
@@ -52,7 +51,7 @@ pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-le
 div.sourceCode
   {   }
 @media screen {
-code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
@@ -2060,7 +2059,12 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 <!--/radix_placeholder_distill-->
+  <script src="../../site_libs/header-attrs-2.7/header-attrs.js"></script>
   <script src="../../site_libs/jquery-1.11.3/jquery.min.js"></script>
+  <script src="../../site_libs/popper-2.6.0/popper.min.js"></script>
+  <link href="../../site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
+  <link href="../../site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
+  <script src="../../site_libs/tippy-6.2.7/tippy.umd.min.js"></script>
   <script src="../../site_libs/anchor-4.2.2/anchor.min.js"></script>
   <script src="../../site_libs/bowser-1.9.3/bowser.min.js"></script>
   <script src="../../site_libs/webcomponents-2.0.0/webcomponents.js"></script>
@@ -2127,7 +2131,7 @@ gtag('config', 'G-PKNT30BN78');
   <a href="../../index.html#category:Technology_Transfer" class="dt-tag">Technology Transfer</a>
 </div>
 <!--/radix_placeholder_categories-->
-<p><p>El viernes 27 de noviembre de 2020 a horas 16:00, se presentó el artículo de revisión: “A scoping review of adoption of climate-resilient crops by small-scale producers in low- and middle-income countries”.</p></p>
+<p><p>El viernes 27 de noviembre de 2020 a horas 16:00, se presentó el artículo de revisión: “A scoping review of adoption of climate-resilient crops by small-scale producers in low- and middle-income countries.”</p></p>
 </div>
 
 <div class="d-byline">
@@ -2137,6 +2141,10 @@ gtag('config', 'G-PKNT30BN78');
 </div>
 
 <div class="d-article">
+<style>
+body {
+text-align: justify}
+</style>
 <h3 id="resumen-del-artículo">Resumen del artículo</h3>
 <p>Se han recomendado cultivos y variedades de cultivos resistentes al clima como una forma para que los agricultores enfrenten o se adapten al cambio climático, pero a pesar de los aparentes beneficios, las tasas de adopción por parte de los pequeños agricultores son muy variables. Aquí presentamos una revisión de alcance, utilizando PRISMA-P (Elementos de informe preferidos para la revisión sistemática y los protocolos de metaanálisis), que examina las condiciones que han llevado a la adopción de cultivos resistentes al clima durante los últimos 30 años en países de ingresos bajos y medios. El análisis descriptivo realizado en 202 artículos muestra que los pequeños productores adoptaron cultivos y variedades resistentes al clima para hacer frente a tensiones abióticas como la sequía, el calor, las inundaciones y la salinidad. El rasgo más prevalente en nuestro conjunto de datos fue la tolerancia a la sequía, seguido de la eficiencia en el uso del agua. Nuestro análisis encontró que los determinantes más importantes de la adopción de cultivos resilientes al clima fueron la disponibilidad y efectividad de los servicios de extensión y la divulgación, seguidos por los niveles de educación de los jefes de hogar, el acceso de los agricultores a insumos, especialmente semillas y fertilizantes, y la situación socioeconómica de familias de agricultores. Alrededor del 53% de los estudios informaron que las diferencias sociales como el sexo, la edad, el estado civil y la etnia afectaron la adopción de variedades o cultivos como estrategias de adaptación al cambio climático. Sobre la base de la evidencia recopilada, este estudio presenta una serie de vías e intervenciones que podrían contribuir a mayores tasas de adopción de cultivos resistentes al clima y reducir la desaprobación.</p>
 <h3 id="conclusiones-del-journal-club">Conclusiones del Journal Club</h3>
@@ -2167,11 +2175,11 @@ gtag('config', 'G-PKNT30BN78');
 <li>Los agricultores no adoptarán cultivos resistentes al clima únicamente sobre la base de cualidades de adaptación ambiental. Los programas de desarrollo y mejoramiento deben considerar las preferencias de los agricultores y los rasgos del mercado.</li>
 <li>Exigir la recopilación de datos desglosados para identificar las estrategias que están funcionando y para quién están trabajando en las encuestas e investigaciones agrícolas permitirá a los responsables de la formulación de políticas y los donantes responder con intervenciones más apropiadas e informadas.</li>
 </ul>
-<p>Cita del artículo<span class="citation" data-cites="refmanager">(Acevedo <a href="#ref-refmanager" role="doc-biblioref">2020</a>)</span></p>
+<p>Cita del artículo<span class="citation" data-cites="refmanager">(<a href="#ref-refmanager" role="doc-biblioref">Acevedo 2020</a>)</span></p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
-<div id="refs" class="references" role="doc-bibliography">
-<div id="ref-refmanager">
-<p>Acevedo, Pixley, M. 2020. “A Scoping Review of Adoption of Climate-Resilient Crops by Small-Scale Producers in Low- and Middle-Income Countries.” <em>Nat. Plants</em>. <a href="https://doi.org/10.1038/s41477-020-00783-z">https://doi.org/10.1038/s41477-020-00783-z</a>.</p>
+<div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
+<div id="ref-refmanager" class="csl-entry" role="doc-biblioentry">
+Acevedo, Pixley, M. 2020. <span>“A Scoping Review of Adoption of Climate-Resilient Crops by Small-Scale Producers in Low- and Middle-Income Countries.”</span> <em>Nat. Plants</em>. <a href="https://doi.org/10.1038/s41477-020-00783-z">https://doi.org/10.1038/s41477-020-00783-z</a>.
 </div>
 </div>
 <!--radix_placeholder_article_footer-->
