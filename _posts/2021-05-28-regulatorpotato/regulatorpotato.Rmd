@@ -1,0 +1,33 @@
+---
+title: "Reguladores de crecimiento en la micropropagación de papa"
+description: |
+  El viernes 23 de abril de 2021 a horas 16:00, se discutió el artículo de revisión: "Different Plant Growth Regulators on Improvement of Potato (Solanum tuberosum L.) Micropropagation".
+categories:
+  - Potato
+  - Micropropagation
+  - Growth Regulators
+author:
+  - name: Alexander Mendoza
+    url: https://franklinsantos.com
+    affiliation: Universidad Pública de El Alto
+date: 04-23-2021
+preview: pot.jpeg
+output:
+  distill::distill_article:
+    self_contained: false
+bibliography: refs.bib
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+### Abstract
+The study compared the effects of MS medium containing 0.1 mg L^-1^ gibberellic acid (GA~3~) and α-naphthaleneacetic acid (NAA) in combination with 2.0 mg L^-1^ of kinetin (KIN), 2.0 mg L^-1^ of benzyl aminopurine (BAP), 1.0 mg L^-1^ of zeatine riboside (ZR), and 0.5 mg L^-1^ of jasmonic acid (JA) for the micropropagation development of three potato (*Solanum tuberosum* L.) cultivars namely Caspar, Granola and Pasinler-92 using binodal stem explants. The results of this research clearly indicated that inclusion of JA among the other plant growth regulators significantly increased shoot regeneration and other characteristics of all potato cultivars used in the study. The minimum days to shoot proliferation on three cultivars ranged 4.0–5.5 d (best result on cv. Pasinler-92) on MS medium containing 0.5 mg L^-1^ JA. The minimum time to root initiation (11.0 d) was observed on cv. Pasinler-92 on the same medium. The maximum number of axillary shoots (15.25) and nodes (19.0), maximum shoot length (17.25 cm), leaves (19.0) and roots (25.25) were noted on cv. Caspar. The longest roots (18.45 cm) on cv. Pasinler-92, and the maximum fresh weight (404.87 mg) and dry weight (61.85 mg) of plantlets from cv. Granola were also recorded on MS medium fortified with 0.1 mg L^-1^ GA3+0.1 mg L^-1^ NAA+0.5 mg L^-1^ JA.
+
+### Conclusion
+La adición exógena de JA en combinación con GA3+NAA reduce eficazmente el intervalo de propagación y aumenta el número de explantes de patata cultivados en condiciones in vitro.
+
+Cita del artículo @jist
+
