@@ -1,15 +1,36 @@
 [
   {
+    "path": "posts/2021-05-28-remoteagri/",
+    "title": "Teledetección e inteligencia artificial en agricultura",
+    "description": "El viernes 14 de mayo de 2021 a horas 16:00, se discutió el artículo de revisión: \"The potential of remote sensing and artificial intelligence as tools to improve the resilience of agriculture production systems\".",
+    "author": [
+      {
+        "name": "Gaby Pamela",
+        "url": "https://franklinsantos.com"
+      }
+    ],
+    "date": "2021-05-14",
+    "categories": [
+      "Remote Sensing",
+      "Artificial Intelligence",
+      "Agriculture"
+    ],
+    "contents": "\n\nbody {\ntext-align: justify}\nAbstract\nModern agriculture and food production systems are facing increasing pressures from climate change, land and water availability, and, more recently, a pandemic. These factors are threatening the environmental and economic sustainability of current and future food supply systems. Scientific and technological innovations are needed more than ever to secure enough food for a fast-growing global population. Scientific advances have led to a better understanding of how various components of the agricultural system interact, from the cell to the field level. Despite incredible advances in genetic tools over the past few decades, our ability to accurately assess crop status in the field, at scale, has been severely lacking until recently. Thanks to recent advances in remote sensing and Artificial Intelligence (AI), we can now quantify field scale phenotypic information accurately and integrate the big data into predictive and prescriptive management tools. This review focuses on the use of recent technological advances in remote sensing and AI to improve the resilience of agricultural systems, and we will present a unique opportunity for the development of prescriptive tools needed to address the next decade’s agricultural and human nutrition challenges.\nConclusion\nEl sistema HTP basado en UAS ha demostrado ser una plataforma precisa y fiable para cuantificar la información fenotípica a escala de campo, y también puede integrarse con el GWAS incluso para acelerar los ciclos de mejora en muchos cultivos.\nCita del artículo Jung et al. (2021)\n\n\n\nJung, Jinha, Murilo Maeda, Anjin Chang, Mahendra Bhandari, Akash Ashapure, and Juan Landivar-Bowles. 2021. “The Potential of Remote Sensing and Artificial Intelligence as Tools to Improve the Resilience of Agriculture Production Systems.” Current Opinion in Biotechnology 70: 15–22. https://doi.org/https://doi.org/10.1016/j.copbio.2020.09.003.\n\n\n\n\n",
+    "preview": "posts/2021-05-28-remoteagri/img.jpg",
+    "last_modified": "2021-05-28T20:27:37-04:00",
+    "input_file": "remoteagri.knit.md"
+  },
+  {
     "path": "posts/2021-05-28-growthquinoa/",
     "title": "Potasio en el crecimiento de la quinua",
-    "description": "El viernes 23 de abril de 2021 a horas 16:00, se discutió el artículo de revisión: \"Potassium, an important element to improve water use efficiency and growth parameters in quinoa (Chenopodium quinoa) under saline conditions\".",
+    "description": "El viernes 30 de abril de 2021 a horas 16:00, se discutió el artículo de revisión: \"Potassium, an important element to improve water use efficiency and growth parameters in quinoa (Chenopodium quinoa) under saline conditions\".",
     "author": [
       {
         "name": "Veronica Lecona",
         "url": "https://franklinsantos.com"
       }
     ],
-    "date": "2021-05-28",
+    "date": "2021-04-30",
     "categories": [
       "Quinoa",
       "Potassium",
@@ -17,7 +38,7 @@
     ],
     "contents": "\n\nbody {\ntext-align: justify}\nAbstract\nDue to changes in the ecosystem and misuse of resources, salinity also increases. Approximately 20% of all irrigated land is affected by salinity and this will increase over time. Therefore, it is necessary to develop more environmentally friendly agricultural techniques but also to exploit potential crops with high nutritional value and tolerance to salinity like quinoa (Chenopodium quinoa Willd.). In this context, potassium is an essential macronutrient for plant growth and development. Furthermore, one of the strategies of some salt-tolerant plants is to increase the uptake of potassium under saline conditions such that the K+/Na+ ratio is maintained for a proper osmotic regulation in cells. Therefore, a study was conducted to investigate the effect of different concentrations of potassium (0.5, 2 and 6 mM K) on quinoa under different salinities (0, 100 and 200 mM NaCl). According to the results, an adequate supply of potassium under moderate salinity conditions benefited the plant growth, with a higher potassium uptake in the presence of salt. Under saline conditions, plant transpiration decreased significantly with a high correlation with stomatal density and a greater water use efficiency. Therefore, under saline conditions, adequate doses of potassium are highly recommended in quinoa cultivation.\nConclusion\nA concentraciones de K entre 2 y 6 mM, la producción de biomasa y la WUE aumentaron.\nEl WUE también se incrementó en condiciones salinas debido a una disminución de la transpiración de la planta. Existe una correlación positiva entre la transpiración y la densidad estomática, por lo que un aumento de la salinidad disminuyó drásticamente la transpiración como consecuencia de una disminución significativa de la densidad estomática.\nLa quinoa es capaz de absorber más K+ bajo condiciones salinas para mantener la relación K+/Na+ como mecanismo para evitar el estrés salino.\nEl K+ es importante para reducir los posibles daños causados por la salinidad y al mismo tiempo aumentar la productividad del cultivo.\nCita del artículo Turcios, Papenbrock, and Tränkner (2021)\n\n\n\nTurcios, Ariel E., Jutta Papenbrock, and Merle Tränkner. 2021. “Potassium, an Important Element to Improve Water Use Efficiency and Growth Parameters in Quinoa (Chenopodium Quinoa) Under Saline Conditions.” Journal of Agronomy and Crop Science n/a (n/a): 1–13. https://doi.org/https://doi.org/10.1111/jac.12477.\n\n\n\n\n",
     "preview": "posts/2021-05-28-growthquinoa/qui.jpeg",
-    "last_modified": "2021-05-28T15:51:55-04:00",
+    "last_modified": "2021-05-28T20:05:02-04:00",
     "input_file": "growthquinoa.knit.md"
   },
   {
@@ -39,7 +60,7 @@
     "contents": "\n\nbody {\ntext-align: justify}\nAbstract\nThe study compared the effects of MS medium containing 0.1 mg L-1 gibberellic acid (GA3) and α-naphthaleneacetic acid (NAA) in combination with 2.0 mg L-1 of kinetin (KIN), 2.0 mg L-1 of benzyl aminopurine (BAP), 1.0 mg L-1 of zeatine riboside (ZR), and 0.5 mg L-1 of jasmonic acid (JA) for the micropropagation development of three potato (Solanum tuberosum L.) cultivars namely Caspar, Granola and Pasinler-92 using binodal stem explants. The results of this research clearly indicated that inclusion of JA among the other plant growth regulators significantly increased shoot regeneration and other characteristics of all potato cultivars used in the study. The minimum days to shoot proliferation on three cultivars ranged 4.0–5.5 d (best result on cv. Pasinler-92) on MS medium containing 0.5 mg L-1 JA. The minimum time to root initiation (11.0 d) was observed on cv. Pasinler-92 on the same medium. The maximum number of axillary shoots (15.25) and nodes (19.0), maximum shoot length (17.25 cm), leaves (19.0) and roots (25.25) were noted on cv. Caspar. The longest roots (18.45 cm) on cv. Pasinler-92, and the maximum fresh weight (404.87 mg) and dry weight (61.85 mg) of plantlets from cv. Granola were also recorded on MS medium fortified with 0.1 mg L-1 GA3+0.1 mg L-1 NAA+0.5 mg L-1 JA.\nConclusion\nLa adición exógena de JA en combinación con GA3+NAA reduce eficazmente el intervalo de propagación y aumenta el número de explantes de patata cultivados en condiciones in vitro.\nCita del artículo Kumlay, Kaya, and Yıldırım (2021)\n\n\n\nKumlay, Ahmet Metin, Canan Kaya, and Bünyamin Yıldırım. 2021. “Different Plant Growth Regulators on Improvement of Potato (Solanum Tuberosum l.).” Journal of the Institute of Science and Technology 11: 1603–15. https://doi.org/10.21597/jist.873537.\n\n\n\n\n",
     "preview": "posts/2021-05-28-regulatorpotato/pot.jpeg",
     "last_modified": "2021-05-28T15:27:02-04:00",
-    "input_file": "regulatorpotato.knit.md"
+    "input_file": {}
   },
   {
     "path": "posts/2021-05-28-iot/",
@@ -59,8 +80,8 @@
     ],
     "contents": "\n\nbody {\ntext-align: justify}\nAbstract\nWith continuous collaborative research in sensor technology, communication technology, plant science, computer science and engineering science, Internet of Things (IoT) in agriculture has made a qualitative leap through environmental sensor networks, non-destructive imaging, spectral analysis, robotics, machine vision and laser radar technology. Physical and chemical analysis can continuously obtain environmental data, experimental metadata (including text, image and spectral, 3D point cloud and real-time growth data) through integrated automation platform equipment and technical means. Based on data on multi-scale, multi-environmental and multi-mode plant traits that constitute big data on plant phenotypes, genotype–phenotype–envirotype relationship in the omics system can be explored deeply. Detailed information on the formation mechanism of specific biological traits can promote the process of functional genomics, plant molecular breeding and efficient cultivation. This study summarises the development background, research process and characteristics of high-throughput plant phenotypes. A systematic review of the research progress of IoT in agriculture and plant high-throughput phenotypes is conducted, including the acquisition and analysis of plant phenotype big data, phenotypic trait prediction and multi-recombination analysis based on plant phenomics. This study proposes key techniques for current plant phenotypes, and looks forward to the research on plant phenotype detection technology in the field environment, fusion and data mining of plant phenotype multivariate data, simultaneous observation of multi-scale phenotype platform and promotion of a comprehensive high-throughput phenotype technology.\nCita del artículo Fan et al. (2021)\n\n\n\nFan, Jiangchuan, Ying Zhang, Weiliang Wen, Shenghao Gu, Xianju Lu, and Xinyu Guo. 2021. “The Future of Internet of Things in Agriculture: Plant High-Throughput Phenotypic Platform.” Journal of Cleaner Production 280: 123651. https://doi.org/https://doi.org/10.1016/j.jclepro.2020.123651.\n\n\n\n\n",
     "preview": "posts/2021-05-28-iot/iot.jpg",
-    "last_modified": "2021-05-28T14:48:02-04:00",
-    "input_file": "iot.knit.md"
+    "last_modified": "2021-05-28T14:48:03-04:00",
+    "input_file": {}
   },
   {
     "path": "posts/2021-04-30-quinoaseed/",
@@ -80,8 +101,8 @@
     ],
     "contents": "\n\nbody {\ntext-align: justify}\nAbstract\nQuinoa (Chenopodium quinoa Willd.) is a culturally significant staple food source that has been grown for thousands of years in South America. Due to its natural drought and salinity tolerance, quinoa has emerged as an agronomically important crop for production in marginal soils, in highly variable climates, and as part of diverse crop rotations. Primary areas of quinoa research have focused on improving resistance to abiotic stresses and disease, improving yields, and increasing nutrition. However, an evolving issue impacting quinoa seed end-use quality is preharvest sprouting (PHS), which is when seeds with little to no dormancy experience a rain event prior to harvest and sprout on the panicle. Far less is understood about the mechanisms that regulate quinoa seed dormancy and seed viability. This review will cover topics including seed dormancy, orthodox and unorthodox dormancy programs, desiccation sensitivity, environmental and hormonal mechanisms that regulate seed dormancy, and breeding and non-breeding strategies for enhancing resistance to PHS in quinoa.\nCita del artículo McGinty, Murphy, and Hauvermale (2021)\n\n\n\nMcGinty, Emma M., Kevin M. Murphy, and Amber L. Hauvermale. 2021. “Seed Dormancy and Preharvest Sprouting in Quinoa (Chenopodium Quinoa Willd).” Plants 10 (3). https://doi.org/10.3390/plants10030458.\n\n\n\n\n",
     "preview": "posts/2021-04-30-quinoaseed/plant.png",
-    "last_modified": "2021-05-28T14:50:13-04:00",
-    "input_file": "quinoaseed.knit.md",
+    "last_modified": "2021-05-28T14:50:14-04:00",
+    "input_file": {},
     "preview_width": 809,
     "preview_height": 738
   },
