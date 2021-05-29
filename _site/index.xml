@@ -7,7 +7,19 @@
     <description>Agri-Tech JC
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Git y GitHub en estadística y ciencia de datos</title>
+      <dc:creator>Franklin Santos</dc:creator>
+      <link>https://agritechjc.netlify.app/posts/2021-05-28-versioncontrol</link>
+      <description>El viernes 28 de mayo de 2021 a horas 16:00, se discutió el artículo de revisión: "Implementing Version Control With Git and GitHub as a Learning Objective in Statistics and Data Science Courses".</description>
+      <category>Git</category>
+      <category>GitHub</category>
+      <category>Version Control</category>
+      <guid>https://agritechjc.netlify.app/posts/2021-05-28-versioncontrol</guid>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://agritechjc.netlify.app/posts/2021-05-28-versioncontrol/git.png" medium="image" type="image/png" width="860" height="816"/>
+    </item>
     <item>
       <title>Teledetección e inteligencia artificial en agricultura</title>
       <dc:creator>Gaby Pamela</dc:creator>
@@ -236,18 +248,6 @@
       <guid>https://agritechjc.netlify.app/posts/2020-11-17-quinoa</guid>
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
       <media:content url="https://agritechjc.netlify.app/posts/2020-11-17-quinoa/quinoa.jpg" medium="image" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>JC: Efecto de la fertilización nitrogenada y fosforada en el rendimiento de papa</title>
-      <dc:creator>Expositor Javier Mamani</dc:creator>
-      <link>https://agritechjc.netlify.app/posts/2020-11-09-nitrogenpotato</link>
-      <description>El viernes 13 de noviembre de 2020 a horas 16:00, se presentó el artículo original: "Effect of nitrogen and phosphorus fertilization sources on the potato crop yield (*Solanum tuberosum* L.)".</description>
-      <category>Potato</category>
-      <category>Agronomics Research</category>
-      <category>Crop Yield</category>
-      <guid>https://agritechjc.netlify.app/posts/2020-11-09-nitrogenpotato</guid>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <media:content url="https://agritechjc.netlify.app/posts/2020-11-09-nitrogenpotato/img.png" medium="image" type="image/png" width="2170" height="1318"/>
     </item>
   </channel>
 </rss>

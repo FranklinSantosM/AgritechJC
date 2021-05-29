@@ -1,5 +1,28 @@
 [
   {
+    "path": "posts/2021-05-28-versioncontrol/",
+    "title": "Git y GitHub en estadística y ciencia de datos",
+    "description": "El viernes 28 de mayo de 2021 a horas 16:00, se discutió el artículo de revisión: \"Implementing Version Control With Git and GitHub as a Learning Objective in Statistics and Data Science Courses\".",
+    "author": [
+      {
+        "name": "Franklin Santos",
+        "url": "https://franklinsantos.com"
+      }
+    ],
+    "date": "2021-05-28",
+    "categories": [
+      "Git",
+      "GitHub",
+      "Version Control"
+    ],
+    "contents": "\n\nbody {\ntext-align: justify}\nAbstract\nA version control system records changes to a file or set of files over time so that changes can be tracked and specific versions of a file can be recalled later. As such, it is an essential element of a reproducible workflow that deserves due consideration among the learning objectives of statistics courses. This article describes experiences and implementation decisions of four contributing faculty who are teaching different courses at a variety of institutions. Each of these faculty has set version control as a learning objective and successfully integrated one such system (Git) into one or more statistics courses. The various approaches described in the article span different implementation strategies to suit student background, course type, software choices, and assessment practices. By presenting a wide range of approaches to teaching Git, the article aims to serve as a resource for statistics and data science instructors teaching courses at any level within an undergraduate or graduate curriculum.\nCita del artículo Beckman et al. (2021)\n\n\n\nBeckman, Matthew D., Mine Çetinkaya-Rundel, Nicholas J. Horton, Colin W. Rundel, Adam J. Sullivan, and Maria Tackett. 2021. “Implementing Version Control with Git and GitHub as a Learning Objective in Statistics and Data Science Courses.” Journal of Statistics and Data Science Education 29 (sup1): S132–44. https://doi.org/10.1080/10691898.2020.1848485.\n\n\n\n\n",
+    "preview": "posts/2021-05-28-versioncontrol/git.png",
+    "last_modified": "2021-05-28T20:47:37-04:00",
+    "input_file": {},
+    "preview_width": 860,
+    "preview_height": 816
+  },
+  {
     "path": "posts/2021-05-28-remoteagri/",
     "title": "Teledetección e inteligencia artificial en agricultura",
     "description": "El viernes 14 de mayo de 2021 a horas 16:00, se discutió el artículo de revisión: \"The potential of remote sensing and artificial intelligence as tools to improve the resilience of agriculture production systems\".",
@@ -18,7 +41,7 @@
     "contents": "\n\nbody {\ntext-align: justify}\nAbstract\nModern agriculture and food production systems are facing increasing pressures from climate change, land and water availability, and, more recently, a pandemic. These factors are threatening the environmental and economic sustainability of current and future food supply systems. Scientific and technological innovations are needed more than ever to secure enough food for a fast-growing global population. Scientific advances have led to a better understanding of how various components of the agricultural system interact, from the cell to the field level. Despite incredible advances in genetic tools over the past few decades, our ability to accurately assess crop status in the field, at scale, has been severely lacking until recently. Thanks to recent advances in remote sensing and Artificial Intelligence (AI), we can now quantify field scale phenotypic information accurately and integrate the big data into predictive and prescriptive management tools. This review focuses on the use of recent technological advances in remote sensing and AI to improve the resilience of agricultural systems, and we will present a unique opportunity for the development of prescriptive tools needed to address the next decade’s agricultural and human nutrition challenges.\nConclusion\nEl sistema HTP basado en UAS ha demostrado ser una plataforma precisa y fiable para cuantificar la información fenotípica a escala de campo, y también puede integrarse con el GWAS incluso para acelerar los ciclos de mejora en muchos cultivos.\nCita del artículo Jung et al. (2021)\n\n\n\nJung, Jinha, Murilo Maeda, Anjin Chang, Mahendra Bhandari, Akash Ashapure, and Juan Landivar-Bowles. 2021. “The Potential of Remote Sensing and Artificial Intelligence as Tools to Improve the Resilience of Agriculture Production Systems.” Current Opinion in Biotechnology 70: 15–22. https://doi.org/https://doi.org/10.1016/j.copbio.2020.09.003.\n\n\n\n\n",
     "preview": "posts/2021-05-28-remoteagri/img.jpg",
     "last_modified": "2021-05-28T20:27:37-04:00",
-    "input_file": "remoteagri.knit.md"
+    "input_file": {}
   },
   {
     "path": "posts/2021-05-28-growthquinoa/",
@@ -38,8 +61,8 @@
     ],
     "contents": "\n\nbody {\ntext-align: justify}\nAbstract\nDue to changes in the ecosystem and misuse of resources, salinity also increases. Approximately 20% of all irrigated land is affected by salinity and this will increase over time. Therefore, it is necessary to develop more environmentally friendly agricultural techniques but also to exploit potential crops with high nutritional value and tolerance to salinity like quinoa (Chenopodium quinoa Willd.). In this context, potassium is an essential macronutrient for plant growth and development. Furthermore, one of the strategies of some salt-tolerant plants is to increase the uptake of potassium under saline conditions such that the K+/Na+ ratio is maintained for a proper osmotic regulation in cells. Therefore, a study was conducted to investigate the effect of different concentrations of potassium (0.5, 2 and 6 mM K) on quinoa under different salinities (0, 100 and 200 mM NaCl). According to the results, an adequate supply of potassium under moderate salinity conditions benefited the plant growth, with a higher potassium uptake in the presence of salt. Under saline conditions, plant transpiration decreased significantly with a high correlation with stomatal density and a greater water use efficiency. Therefore, under saline conditions, adequate doses of potassium are highly recommended in quinoa cultivation.\nConclusion\nA concentraciones de K entre 2 y 6 mM, la producción de biomasa y la WUE aumentaron.\nEl WUE también se incrementó en condiciones salinas debido a una disminución de la transpiración de la planta. Existe una correlación positiva entre la transpiración y la densidad estomática, por lo que un aumento de la salinidad disminuyó drásticamente la transpiración como consecuencia de una disminución significativa de la densidad estomática.\nLa quinoa es capaz de absorber más K+ bajo condiciones salinas para mantener la relación K+/Na+ como mecanismo para evitar el estrés salino.\nEl K+ es importante para reducir los posibles daños causados por la salinidad y al mismo tiempo aumentar la productividad del cultivo.\nCita del artículo Turcios, Papenbrock, and Tränkner (2021)\n\n\n\nTurcios, Ariel E., Jutta Papenbrock, and Merle Tränkner. 2021. “Potassium, an Important Element to Improve Water Use Efficiency and Growth Parameters in Quinoa (Chenopodium Quinoa) Under Saline Conditions.” Journal of Agronomy and Crop Science n/a (n/a): 1–13. https://doi.org/https://doi.org/10.1111/jac.12477.\n\n\n\n\n",
     "preview": "posts/2021-05-28-growthquinoa/qui.jpeg",
-    "last_modified": "2021-05-28T20:05:02-04:00",
-    "input_file": "growthquinoa.knit.md"
+    "last_modified": "2021-05-28T20:05:03-04:00",
+    "input_file": {}
   },
   {
     "path": "posts/2021-05-28-regulatorpotato/",
